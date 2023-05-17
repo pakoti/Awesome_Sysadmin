@@ -1,5 +1,5 @@
 # Virtuallization
-if you dont have graphical interface or if you have a linux server,and you dont know how to control your virtual machines just use this commands.
+if you dont have graphical interface or if you have a linux server,and you dont know how to control your virtual machines in Virtualbox just use this commands.this commands are awsome when you cant access the graphical interface and you want save resource when working with virtual machine.
 
 
 # scripts for vms that are running and getting info
@@ -24,4 +24,3 @@ if you dont have graphical interface or if you have a linux server,and you dont 
 
     VBoxManage list ostypes
 
-    

@@ -24,3 +24,29 @@ if you dont have graphical interface or if you have a linux server,and you dont 
 
     VBoxManage list ostypes
 
+
+<p>to lists the vms</p>
+
+    VBoxManage list vms
+
+<p>to start a vm called "alma clone"</p>
+
+    VBoxManage startvm "alma clone" --type headless
+
+<p>to puase a vm </p>
+
+    VBoxManage controlvm "UbuntuSERVER Clone" pause --type headless
+
+<p>to resume a vm</p>
+
+    VBoxManage controlvm "UbuntuSERVER Clone" resume --type headless
+
+<p>to see what vms are running</p>
+
+    VBoxManage list runningvms
+
+<p>to power-off vm</p>
+
+    VBoxManage controlvm "UbuntuSERVER Clone" poweroff --type headless
+
+

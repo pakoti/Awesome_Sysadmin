@@ -5,12 +5,13 @@ if you dont have graphical interface or if you have a linux server,and you dont 
 # scripts for vms that are running and getting info
 
 
-#to see what vms are running
+<p>to see what vms are running</p>
     VBoxManage list runningvms
 
-#a detailed output of lists
+
+<p>a detailed output of lists</p>
     VBoxManage list -l runningvms
 
 
-#vm os
+<p>vm os</p>
     VBoxManage list ostypes

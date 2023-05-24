@@ -1,4 +1,4 @@
-# Scan Localhosts ports
+# Networking
 if you can't scan your localhost for whatever reason use this script to scan your localhost.for running in your sysytem just execute this script:
 
 <ul>
@@ -7,13 +7,19 @@ if you can't scan your localhost for whatever reason use this script to scan you
     python3 portscan.py
 
 </li>
-<li>2.To get wifi passwords that are stored in our system:
+</ul>
+
+
+# Finding Forgotten Wifi Passwords
+To find passwords that were forgotten by using CMD and Powershell
+<ul>
+<li>1.To get wifi passwords that are stored in our system:
 
 <p>to show past and present wifi you were connected to:</p>
 
     netsh show profile
 
-<p>to find a wifi password that you know :</p>
+<p>2.to find a wifi password that you know :</p>
 
 
     netsh wlan show profile WiFi Name key=clear

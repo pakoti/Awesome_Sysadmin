@@ -10,6 +10,34 @@ if you can't scan your localhost for whatever reason use this script to scan you
 </ul>
 
 
+# Active Directory
+by using CMD you can be fast and dangerous in windows domains!
+<ul>
+<li>net user The net user command displays user account information on a local computer or the domain.On a PC type net user to see the computer’s account info. 
+
+
+    net user /domain
+
+</li>
+<li>Get domain account details:
+
+    net user username /domain
+
+</li>
+<li>runas  Runas allows you to run a specific tool or program as a different user. For example, you are logged in as a regular user (no administrator rights) and you need to run a program with an account that has local administrator rights. 
+
+
+    runas /user:administrator c:\windows\notepad.exe
+
+</li>
+<li></li>
+<li></li>
+<li></li>
+</ul>
+
+
+
+
 # Finding Forgotten Wifi Passwords
 To find passwords that were forgotten by using CMD and Powershell
 <ul>
@@ -26,9 +54,57 @@ To find passwords that were forgotten by using CMD and Powershell
 
 <p>i am working on linux version of this but this works foe windows right now.you can use powershell or cmd.</p>
 </li>
+<li>Firewall-Blocked ports:
 
+    netsh firewall show state
 
+</li>
 </ul>
 
+
+# ipconfig 
+
+<ul>
+<li>/renew switch will renew DHCP address for all network cards:
+
+    ipconfig /renew
+
+</li>
+<li>/displaydns switch will display the DNS client cache:
+
+    ipconfig /displaydns
+
+</li>
+<li>/registerdns to trigger dynamic registration of the DNS names and IP addresses that are configured on the computer:
+
+    ipconfig /registerdns
+
+</li>
+<li>/release to release DHCP addresses. This will release DCHP address on the network cards that are configured for DHCP:
+
+    ipconfig /release
+
+</li>
+<li>/flushdns switch to clear the local DNS resolver cache:
+
+
+    /flushdns switch to clear the local DNS resolver cache.
+
+</li>
+<li>To see what resources are mapped to our file system:
+
+    net use
+
+
+</li>
+<li>to connect a printer to our system:
+
+    net use \\srv-vm1\share
+
+</li>
+<li></li>
+<li></li>
+
+</ul>
 
     

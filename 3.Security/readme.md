@@ -1,5 +1,5 @@
 # security
-cool tricks to securing and some how a little forensics.
+cool tricks to securing and some how a little forensics.keep in mind that win+x in windows os opens a menu bar that you can control so many other options too.
 
 <ul>
 <li>Wevtutil</li>

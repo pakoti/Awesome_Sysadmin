@@ -1,5 +1,5 @@
 # Networking
-in this section some tools and techniques that are used widely,are described . like:
+in this section some tools and techniques that are used widely,are described .keep in mind that win+x in windows os opens a menu bar that you can control so many other options too. like:
 
 <ul>
 <li>Python Port scanner</li>

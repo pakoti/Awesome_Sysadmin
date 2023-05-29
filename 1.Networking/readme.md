@@ -1,4 +1,16 @@
 # Networking
+in this section some tools and techniques that are used widely,are described . like:
+
+<ul>
+<li>Python Port scanner</li>
+<li>Active Directory one liners</li>
+<li>Finding Forgotten Wifi Passwords</li>
+<li>ipconfig </li>
+<li>Managing users</li>
+<li></li>
+</ul>
+
+# Python Port scanner
 if you can't scan your localhost for whatever reason use this script to scan your localhost.for running in your sysytem just execute this script:
 
 <ul>
@@ -10,7 +22,7 @@ if you can't scan your localhost for whatever reason use this script to scan you
 </ul>
 
 
-# Active Directory
+# Active Directory one liners
 by using CMD you can be fast and dangerous in windows domains!
 <ul>
 <li>net user The net user command displays user account information on a local computer or the domain.On a PC type net user to see the computer’s account info. 
@@ -31,11 +43,7 @@ by using CMD you can be fast and dangerous in windows domains!
 
 </li>
 <li></li>
-<li></li>
-<li></li>
 </ul>
-
-
 
 
 # Finding Forgotten Wifi Passwords
@@ -95,16 +103,15 @@ To find passwords that were forgotten by using CMD and Powershell
 
     net use
 
-
 </li>
 <li>to connect a printer to our system:
 
     net use \\srv-vm1\share
 
 </li>
-<li></li>
-<li></li>
-
 </ul>
 
-    
+# Managing users
+simply type lusrmgr.msc  on run and a GUI will open.
+
+    lusrmgr.msc

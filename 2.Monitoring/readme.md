@@ -1,9 +1,17 @@
 # Monitoring
 how to monitor resources in windows and also linux:
 
+
+
+<ul>
+<li>Basic Coomand in CMD</li>
+<li>How to see users and groups in CMD</li>
+<li></li>
+</ul>
+
 # Basic Coomand in CMD
 <ul>
-<li>Display filesystems:
+<li>Display shared filesystems:
 
     net share    
 
@@ -39,15 +47,12 @@ how to monitor resources in windows and also linux:
     taskkill /pid 1808 /f
 
 </li>
-<li>assoc (file association)
-The assoc command displays or modifies file name extension associations.
-List all current file name extension associations.
+<li>The assoc (file association) command displays or modifies file name extension associations.List all current file name extension associations.
 
     assoc
 
- </li>
-<li></li>
-<li></li>
+</li>
+
 <li></li>
 </ul>
 

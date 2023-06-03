@@ -1,3 +1,9 @@
+
+https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white
+
+
+https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
+
 # awsome_Sysadmin
 If you are looking for Scripts to automate tasks or new solutions in windows or linux environments. System administrators and also help desk specialists can use this repository.by using powershell and also bash script we can easily do tasks that previsouly needed so much time.
 <ul>

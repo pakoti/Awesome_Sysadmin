@@ -10,3 +10,18 @@ If you are looking for Scripts to automate tasks or new solutions in windows or 
 
 <p>as system administrator i faced tasks which with scripting languages it is much more easier and safer to do it this way.</p>
 <p>To be continued in future</p>
+
+## Technologies
+Project is created with:
+* Linux
+* Windows 
+
+
+## Author
+[Dark Master!](https://github.com/pakoti)
+
+## License
+
+https://choosealicense.com/licenses/cc0-1.0/
+
+<img src=88x31.png>

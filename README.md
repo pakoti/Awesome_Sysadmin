@@ -6,11 +6,11 @@
 If you are looking for Scripts to automate tasks or new solutions in windows or linux environments. System administrators and also help desk specialists can use this repository.by using powershell and also bash script we can easily do tasks that previsouly needed so much time.
 
 ## Table of Contents
-[Networking](https://github.com/pakoti/awesome_Sysadmin/tree/main/1.Networking)
-[Monitoring](https://github.com/pakoti/awesome_Sysadmin/tree/main/2.Monitoring)
-[Security](https://github.com/pakoti/awesome_Sysadmin/tree/main/3.Security)
-[Virtualization](https://github.com/pakoti/awesome_Sysadmin/tree/main/4.Virtualization)
-[Disk](https://github.com/pakoti/awesome_Sysadmin/tree/main/5.Virtualization)
+[Networking] <a href="https://github.com/pakoti/awesome_Sysadmin/tree/main/1.Networking">
+[Monitoring](#https://github.com/pakoti/awesome_Sysadmin/tree/main/2.Monitoring)
+[Security](#https://github.com/pakoti/awesome_Sysadmin/tree/main/3.Security)
+[Virtualization](#https://github.com/pakoti/awesome_Sysadmin/tree/main/4.Virtualization)
+[Disk](#https://github.com/pakoti/awesome_Sysadmin/tree/main/5.Virtualization)
 
 
 <p>as system administrator i faced tasks which with scripting languages it is much more easier and safer to do it this way.</p>

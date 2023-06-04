@@ -32,27 +32,27 @@ If you are looking for Scripts to automate tasks or new solutions in windows or 
 
 | Command | Description | Link|
 | --- | --- | --- |
-| Shared FileSystems in CMD | List all Shared FileSystems |<a href="https://github.com/pakoti/awesome_Sysadmin/tree/main/1.Networking" >See More</a> |
-| users and groups in CMD | Show users and groups |<a href="https://github.com/pakoti/awesome_Sysadmin/tree/main/1.Networking" >See More</a> |
-| Get services in powershell | List all servicess |<a href="https://github.com/pakoti/awesome_Sysadmin/tree/main/1.Networking" >See More</a> |
-| Search a file by CMD| search faster by using CMD |<a href="https://github.com/pakoti/awesome_Sysadmin/tree/main/1.Networking" >See More</a> |
-| How to monitor CPU tempeture in powershell | monitor hardware by only cli tools |<a href="https://github.com/pakoti/awesome_Sysadmin/tree/main/1.Networking" >See More</a> |
+| Shared FileSystems in CMD | List all Shared FileSystems |<a href="https://github.com/pakoti/awesome_Sysadmin/tree/main/2.Monitoring" >See More</a> |
+| users and groups in CMD | Show users and groups |<a href="https://github.com/pakoti/awesome_Sysadmin/tree/main/2.Monitoring" >See More</a> |
+| Get services in powershell | List all servicess |<a href="https://github.com/pakoti/awesome_Sysadmin/tree/main/2.Monitoring" >See More</a> |
+| Search a file by CMD| search faster by using CMD |<a href="https://github.com/pakoti/awesome_Sysadmin/tree/main/2.Monitoring" >See More</a> |
+| How to monitor CPU tempeture in powershell | monitor hardware by only cli tools |<a href="https://github.com/pakoti/awesome_Sysadmin/tree/main/2.Monitoring" >See More</a> |
 
 ## Security
 
 | Command | Description | Link|
 | --- | --- | --- |
-| Wevtutil | retrieve information about event logs and publishers |<a href="https://github.com/pakoti/awesome_Sysadmin/tree/main/1.Networking" >See More</a> |
-| Event Viewer | Show event in windows |<a href="https://github.com/pakoti/awesome_Sysadmin/tree/main/1.Networking" >See More</a> |
-| Bypass windows Login | easilly bypass windows login in |<a href="https://github.com/pakoti/awesome_Sysadmin/tree/main/1.Networking" >See More</a> |
-| Calculate hash of a given File | easily calculate hash |<a href="https://github.com/pakoti/awesome_Sysadmin/tree/main/1.Networking" >See More</a> |
-| Check if you are local Administrator | just a script to show your privilages |<a href="https://github.com/pakoti/awesome_Sysadmin/tree/main/1.Networking" >See More</a> |
+| Wevtutil | retrieve information about event logs and publishers |<a href="https://github.com/pakoti/awesome_Sysadmin/tree/main/3.Security" >See More</a> |
+| Event Viewer | Show event in windows |<a href="https://github.com/pakoti/awesome_Sysadmin/tree/main/3.Security" >See More</a> |
+| Bypass windows Login | easilly bypass windows login in |<a href="https://github.com/pakoti/awesome_Sysadmin/tree/main/3.Security" >See More</a> |
+| Calculate hash of a given File | easily calculate hash |<a href="https://github.com/pakoti/awesome_Sysadmin/tree/main/3.Security" >See More</a> |
+| Check if you are local Administrator | just a script to show your privilages |<a href="https://github.com/pakoti/awesome_Sysadmin/tree/main/3.Security" >See More</a> |
 
 ## Virtualization
 
 | Command | Description | Link|
 | --- | --- | --- |
-| vbox in bash |scripts for vms that are running and getting info |<a href="https://github.com/pakoti/awesome_Sysadmin/tree/main/1.Networking" >See More</a> |
+| vbox in bash |scripts for vms that are running and getting info |<a href="https://github.com/pakoti/awesome_Sysadmin/tree/main/4.Virtualization" >See More</a> |
 
 
 
@@ -60,18 +60,18 @@ If you are looking for Scripts to automate tasks or new solutions in windows or 
 
 | Command | Description | Link|
 | --- | --- | --- |
-| Disk scan in windows | scan for corrupted disks |<a href="https://github.com/pakoti/awesome_Sysadmin/tree/main/1.Networking" >See More</a> |
-| Unditected Hard Drives While booting | a rare event occure in some motherboards |<a href="https://github.com/pakoti/awesome_Sysadmin/tree/main/1.Networking" >See More</a> |
-| How to organize Files in a Directory | Sort directories magically |<a href="https://github.com/pakoti/awesome_Sysadmin/tree/main/1.Networking" >See More</a> |
-| Getting information about disks in CMD | Show detailed information of Disks |<a href="https://github.com/pakoti/awesome_Sysadmin/tree/main/1.Networking" >See More</a> |
+| Disk scan in windows | scan for corrupted disks |<a href="https://github.com/pakoti/awesome_Sysadmin/tree/main/5.Storage" >See More</a> |
+| Unditected Hard Drives While booting | a rare event occure in some motherboards |<a href="https://github.com/pakoti/awesome_Sysadmin/tree/main/5.Storage" >See More</a> |
+| How to organize Files in a Directory | Sort directories magically |<a href="https://github.com/pakoti/awesome_Sysadmin/tree/main/5.Storage" >See More</a> |
+| Getting information about disks in CMD | Show detailed information of Disks |<a href="https://github.com/pakoti/awesome_Sysadmin/tree/main/5.Storage" >See More</a> |
 
 ## Printers
 
 | Command | Description | Link|
 | --- | --- | --- |
-| List All Printers | how to do it both in cmd and powershell |<a href="https://github.com/pakoti/awesome_Sysadmin/tree/main/1.Networking" >See More</a> |
-| List All Printers Jobs | List all files |<a href="https://github.com/pakoti/awesome_Sysadmin/tree/main/1.Networking" >See More</a> |
-| Cancel Printers Jobs | cancel all annoying jobs instantly! |<a href="https://github.com/pakoti/awesome_Sysadmin/tree/main/1.Networking" >See More</a> |
+| List All Printers | how to do it both in cmd and powershell |<a href="https://github.com/pakoti/awesome_Sysadmin/tree/main/6.Printers" >See More</a> |
+| List All Printers Jobs | List all files |<a href="https://github.com/pakoti/awesome_Sysadmin/tree/main/6.Printers" >See More</a> |
+| Cancel Printers Jobs | cancel all annoying jobs instantly! |<a href="https://github.com/pakoti/awesome_Sysadmin/tree/main/6.Printers" >See More</a> |
 
 ## Author
 [Dark Master!](https://github.com/pakoti)

@@ -18,7 +18,7 @@
 
 ## Networking
 
-| Command | Description | Link|
+| Title | Description | Link|
 | --- | --- | --- |
 | Python Port scanner | Python app that scan ports on localhost | <a href="https://github.com/pakoti/awesome_Sysadmin/tree/main/1.Networking" >See More</a> |
 | Active Directory one liners | one-liners to manage AD |<a href="https://github.com/pakoti/awesome_Sysadmin/tree/main/1.Networking" >See More</a> |
@@ -30,7 +30,7 @@
 
 ## Monitoring
 
-| Command | Description | Link|
+| Title | Description | Link|
 | --- | --- | --- |
 | Shared FileSystems in CMD | List all Shared FileSystems |<a href="https://github.com/pakoti/awesome_Sysadmin/tree/main/2.Monitoring" >See More</a> |
 | users and groups in CMD | Show users and groups |<a href="https://github.com/pakoti/awesome_Sysadmin/tree/main/2.Monitoring" >See More</a> |
@@ -40,7 +40,7 @@
 
 ## Security
 
-| Command | Description | Link|
+| Title | Description | Link|
 | --- | --- | --- |
 | Wevtutil | retrieve information about event logs and publishers |<a href="https://github.com/pakoti/awesome_Sysadmin/tree/main/3.Security" >See More</a> |
 | Event Viewer | Show event in windows |<a href="https://github.com/pakoti/awesome_Sysadmin/tree/main/3.Security" >See More</a> |
@@ -50,7 +50,7 @@
 
 ## Virtualization
 
-| Command | Description | Link|
+| Title | Description | Link|
 | --- | --- | --- |
 | vbox in bash |scripts for vms that are running and getting info |<a href="https://github.com/pakoti/awesome_Sysadmin/tree/main/4.Virtualization" >See More</a> |
 
@@ -58,7 +58,7 @@
 
 ## Storage
 
-| Command | Description | Link|
+| Title | Description | Link|
 | --- | --- | --- |
 | Disk scan in windows | scan for corrupted disks |<a href="https://github.com/pakoti/awesome_Sysadmin/tree/main/5.Storage" >See More</a> |
 | Unditected Hard Drives While booting | a rare event occure in some motherboards |<a href="https://github.com/pakoti/awesome_Sysadmin/tree/main/5.Storage" >See More</a> |
@@ -67,7 +67,7 @@
 
 ## Printers
 
-| Command | Description | Link|
+| Title | Description | Link|
 | --- | --- | --- |
 | List All Printers | how to do it both in cmd and powershell |<a href="https://github.com/pakoti/awesome_Sysadmin/tree/main/6.Printers" >See More</a> |
 | List All Printers Jobs | List all files |<a href="https://github.com/pakoti/awesome_Sysadmin/tree/main/6.Printers" >See More</a> |

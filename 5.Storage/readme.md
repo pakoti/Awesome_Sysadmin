@@ -4,7 +4,7 @@ as a sys admin dealing with storage is so much stressing because you need backup
 
 <ul>
 <li>Disk scan in windows</li>
-<li>Unditected Hard Drives While booting</li>
+<li>Undetected Hard Drives While booting</li>
 <li>How to organize Files in a Directory</li>
 <li>Getting information aboyt disks in CMD </li>
 </ul>
@@ -19,7 +19,7 @@ as a sys admin dealing with storage is so much stressing because you need backup
 </ul>
 
 
-# Unditected Hard Drives While booting
+# Undetected Hard Drives While booting
 i am trying to install windows 10 or 11 but my hard drives aren't detected in list disk and also i can't see in my disks what should i do?
 <p>just disable secure boot and VDM in bios setting! and then try to boot on usb that contain windows .iso</p>
 

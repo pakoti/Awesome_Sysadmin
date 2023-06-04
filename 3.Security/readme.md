@@ -4,7 +4,9 @@ cool tricks to securing and some how a little forensics.keep in mind that win+x 
 <ul>
 <li>Wevtutil</li>
 <li>Event Viewer</li>
-<li>Bypass windows Login </li>
+<li>Bypass windows Login</li>
+<li>Calculate hash of a given File(sha1.sha256,md5)</li>
+<li>Check if you are local Administrator</li>
 </ul>
 
 # Wevtutil
@@ -32,7 +34,6 @@ Enables you to retrieve information about event logs and publishers in powershel
     wevtutil clear-log Application
     
 </li>
-<li>...</li>
 </ul>
 
 # Event Viewer
@@ -65,3 +66,10 @@ as you may know you can open accounts on any windows machine without any passwor
 
 <p> you are in windows now!</p>
 
+# Calculate hash Calculate hash of a given File(sha1.sha256,md5)(sha1.sha256,md5)
+to calculate hash Calculate hash of a given File just enter the path to that file and you have the hash.
+
+# Check if you are local Administrator
+to check if you are local Administrator just run this script
+
+    check_admin.bat

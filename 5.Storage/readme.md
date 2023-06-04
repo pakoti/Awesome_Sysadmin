@@ -6,7 +6,7 @@ as a sys admin dealing with storage is so much stressing because you need backup
 <li>Disk scan in windows</li>
 <li>Unditected Hard Drives While booting</li>
 <li>How to organize Files in a Directory</li>
-<li></li>
+<li>Getting information aboyt disks in CMD </li>
 </ul>
 
 # Disk scan in windows
@@ -36,3 +36,12 @@ open a notepad  and then copy this code in it and save it .bat format
 
 just open it in anywhere you like,usb flash drive or external hard drives ...
 
+
+# Getting information about disks in CMD
+to get information of how many disk you have on this pc
+    fsutil fsinfo drives
+
+also in powershell
+
+    Get-PSDrive
+    

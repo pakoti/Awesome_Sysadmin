@@ -12,6 +12,7 @@
 <li>4.Virtualization</li>
 <li>5.Storage</li>
 <li>6.Printers</li>
+<li>7.Active Directory</li>
 </ul>
 
 <p>If you are looking for Scripts to automate tasks or new solutions in windows or linux environments. System administrators and also help desk specialists can use this repository.by using powershell and also bash script we can easily do tasks that previsouly needed so much time.as system administrator i faced tasks which with scripting languages it is much more easier and safer to do it this way.</p>
@@ -73,6 +74,11 @@ netplwiz| To grant access to your computer to users|<a href="https://github.com/
 | List All Printers | how to do it both in cmd and powershell |<a href="https://github.com/pakoti/awesome_Sysadmin/tree/main/6.Printers" >See More</a> |
 | List All Printers Jobs | List all files |<a href="https://github.com/pakoti/awesome_Sysadmin/tree/main/6.Printers" >See More</a> |
 | Cancel Printers Jobs | cancel all annoying jobs instantly! |<a href="https://github.com/pakoti/awesome_Sysadmin/tree/main/6.Printers" >See More</a> |
+
+## Active Directory
+
+| Title | Description | Link|
+| --- | --- | --- |
 
 ## Author
 [Dark Master!](https://github.com/pakoti)

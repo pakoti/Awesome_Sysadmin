@@ -16,6 +16,55 @@ If you are looking for Scripts to automate tasks or new solutions in windows or 
 
 <p>as system administrator i faced tasks which with scripting languages it is much more easier and safer to do it this way.</p>
 
+## Networking
+
+| Command | Description |
+| --- | --- |
+| Python Port scanner | Python app that scan ports on localhost |
+| Active Directory one liners | one-liners to manage AD |
+| Finding Forgotten Wifi Passwords| Show Forgotten Wifi Passwords IN CLEAR TEXT |
+| Network Interfaces in CMD | Show Network Interfaces in detail |
+| Managing users | add or delete users |
+| Managing network connection | Show interfaces much more easier way |
+| lists of Hosts in Windows | Show localhosts and thier ips |
+
+## Monitoring
+
+| Command | Description |
+| --- | --- |
+| git status | List all new or modified files |
+| git diff | Show file differences that haven't been staged |
+
+## Security
+
+| Command | Description |
+| --- | --- |
+| git status | List all new or modified files |
+| git diff | Show file differences that haven't been staged |
+
+## Virtualization
+
+
+
+| Command | Description |
+| --- | --- |
+| git status | List all new or modified files |
+| git diff | Show file differences that haven't been staged |
+
+
+## Storage
+
+| Command | Description |
+| --- | --- |
+| git status | List all new or modified files |
+| git diff | Show file differences that haven't been staged |
+
+## Printers
+
+| Title | Description |
+| --- | --- |
+| git status | List all new or modified files |
+| git diff | Show file differences that haven't been staged |
 
 ## Author
 [Dark Master!](https://github.com/pakoti)

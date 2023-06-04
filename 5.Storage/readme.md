@@ -44,4 +44,5 @@ to get information of how many disk you have on this pc
 also in powershell
 
     Get-PSDrive
+
     

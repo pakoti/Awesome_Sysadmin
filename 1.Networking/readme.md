@@ -8,7 +8,6 @@ in this section some tools and techniques that are used widely,are described .ke
 <li>Network Interfaces in CMD</li>
 <li>Managing users</li>
 <li>Managing network connection</li>
-<li>List of Printers in Powershell</li>
 <li>lists of Hosts in Windows</li>
 </ul>
 
@@ -122,12 +121,6 @@ simply type lusrmgr.msc  on run and a GUI will open.
 to see network connection,interfaces and also VPN connections just type this command in run:
 
     ncpa.cpl
-
-
-# List of Printers in Powershell
-to get list of all installed printers in powershell:
-
-	Get-WMIObject -Class Win32_Printer -ComputerName $(hostname) | Format-Table
 
 
 # lists of Hosts in Windows

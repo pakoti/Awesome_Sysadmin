@@ -7,6 +7,7 @@ cool tricks to securing and some how a little forensics.keep in mind that win+x 
 <li>Bypass windows Login</li>
 <li>Calculate hash of a File</li>
 <li>Check if you are local Administrator</li>
+<li>netplwiz</li>
 </ul>
 
 # Wevtutil
@@ -84,3 +85,8 @@ or
 to check if you are local Administrator just run this script
 
     check_admin.bat
+
+# netplwiz
+To grant access to your computer to users.if any users is present here without permissio then you should be serious ... .type this command in run:
+
+    netplwiz

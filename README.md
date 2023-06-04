@@ -47,6 +47,7 @@
 | Bypass windows Login | easilly bypass windows login in |<a href="https://github.com/pakoti/awesome_Sysadmin/tree/main/3.Security" >See More</a> |
 | Calculate hash of a given File | easily calculate hash |<a href="https://github.com/pakoti/awesome_Sysadmin/tree/main/3.Security" >See More</a> |
 | Check if you are local Administrator | just a script to show your privilages |<a href="https://github.com/pakoti/awesome_Sysadmin/tree/main/3.Security" >See More</a> |
+netplwiz| To grant access to your computer to users|<a href="https://github.com/pakoti/awesome_Sysadmin/tree/main/3.Security" >See More</a> |
 
 ## Virtualization
 

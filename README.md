@@ -19,7 +19,7 @@ If you are looking for Scripts to automate tasks or new solutions in windows or 
 ## Networking
 
 | Command | Description |
-| --- | --- |
+| --- | --- | --- |
 | Python Port scanner | Python app that scan ports on localhost | <a href="https://github.com/pakoti/awesome_Sysadmin/tree/main/1.Networking" >Introduction</a>
 | Active Directory one liners | one-liners to manage AD |
 | Finding Forgotten Wifi Passwords| Show Forgotten Wifi Passwords IN CLEAR TEXT |

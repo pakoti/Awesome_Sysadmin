@@ -16,7 +16,6 @@ as a sys admin dealing with storage is so much stressing because you need backup
     chkdsk
 
 </li>
-<li></li>
 </ul>
 
 

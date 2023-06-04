@@ -20,13 +20,13 @@ If you are looking for Scripts to automate tasks or new solutions in windows or 
 
 | Command | Description |
 | --- | --- | --- |
-| Python Port scanner | Python app that scan ports on localhost | <a href="https://github.com/pakoti/awesome_Sysadmin/tree/main/1.Networking" >Introduction</a>
-| Active Directory one liners | one-liners to manage AD |
-| Finding Forgotten Wifi Passwords| Show Forgotten Wifi Passwords IN CLEAR TEXT |
-| Network Interfaces in CMD | Show Network Interfaces in detail |
-| Managing users | add or delete users |
-| Managing network connection | Show interfaces much more easier way |
-| lists of Hosts in Windows | Show localhosts and thier ips |
+| Python Port scanner | Python app that scan ports on localhost | <a href="https://github.com/pakoti/awesome_Sysadmin/tree/main/1.Networking" >Introduction</a> |
+| Active Directory one liners | one-liners to manage AD |<a href="https://github.com/pakoti/awesome_Sysadmin/tree/main/1.Networking" >Introduction</a> |
+| Finding Forgotten Wifi Passwords| Show Forgotten Wifi Passwords IN CLEAR TEXT |<a href="https://github.com/pakoti/awesome_Sysadmin/tree/main/1.Networking" >Introduction</a> |
+| Network Interfaces in CMD | Show Network Interfaces in detail |<a href="https://github.com/pakoti/awesome_Sysadmin/tree/main/1.Networking" >Introduction</a> |
+| Managing users | add or delete users |<a href="https://github.com/pakoti/awesome_Sysadmin/tree/main/1.Networking" >Introduction</a> |
+| Managing network connection | Show interfaces much more easier way |<a href="https://github.com/pakoti/awesome_Sysadmin/tree/main/1.Networking" >Introduction</a> |
+| lists of Hosts in Windows | Show localhosts and thier ips |<a href="https://github.com/pakoti/awesome_Sysadmin/tree/main/1.Networking" >Introduction</a> |
 
 ## Monitoring
 

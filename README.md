@@ -30,13 +30,6 @@ If you are looking for Scripts to automate tasks or new solutions in windows or 
 
 ## Monitoring
 
-<ul>
-<li>Shared FileSystems in CMD</li>
-<li>users and groups in CMD</li>
-<li>Get services in powershell</li>
-<li>Search a file by CMD</li>
-<li>How to monitor CPU tempeture in powershell</li>
-</ul>
 | Command | Description |
 | --- | --- |
 | Shared FileSystems in CMD | List all Shared FileSystems |

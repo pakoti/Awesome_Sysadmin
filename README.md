@@ -67,14 +67,6 @@ If you are looking for Scripts to automate tasks or new solutions in windows or 
 
 ## Printers
 
-
-<ul>
-<li>List All Printers</li>
-<li>Cancel Printers Jobs</li>
-<li>List All Printers Jobs</li>
-</ul>
-
-
 | Title | Description |
 | --- | --- |
 | List All Printers | how to do it both in cmd and powershell |

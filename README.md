@@ -78,6 +78,6 @@
 
 ## License
 
-https://choosealicense.com/licenses/cc0-1.0/
+Creative Commons Zero v1.0 Universal
 
 <img src=88x31.png>

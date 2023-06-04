@@ -69,6 +69,17 @@ as you may know you can open accounts on any windows machine without any passwor
 # Calculate hash Calculate hash of a File
 to calculate hash (sha1.sha256,md5) of a given File just enter the path to that file and you have the hash.
 
+    .\hash(md5).ps1
+
+or 
+
+    .\hash(sha1).ps1
+
+or
+
+    .\hash(sha256).ps1
+
+
 # Check if you are local Administrator
 to check if you are local Administrator just run this script
 

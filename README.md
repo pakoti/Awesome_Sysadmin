@@ -4,7 +4,7 @@
 
 
 # awesome_Sysadmin
- Mega Collection of Scripts,one-liners,Techniques to Troubleshoot,Solve problems for system administartors.
+ Mega Collection of Scripts,one-liners,Techniques to Troubleshoot,Solve problems for system administators.
 <ul>
 <li>1.Networking</li>
 <li>2.Monitoring</li>

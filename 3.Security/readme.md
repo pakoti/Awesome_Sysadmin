@@ -5,7 +5,7 @@ cool tricks to securing and some how a little forensics.keep in mind that win+x 
 <li>Wevtutil</li>
 <li>Event Viewer</li>
 <li>Bypass windows Login</li>
-<li>Calculate hash of a given File(sha1.sha256,md5)</li>
+<li>Calculate hash of a File</li>
 <li>Check if you are local Administrator</li>
 </ul>
 
@@ -66,8 +66,8 @@ as you may know you can open accounts on any windows machine without any passwor
 
 <p> you are in windows now!</p>
 
-# Calculate hash Calculate hash of a given File(sha1.sha256,md5)(sha1.sha256,md5)
-to calculate hash Calculate hash of a given File just enter the path to that file and you have the hash.
+# Calculate hash Calculate hash of a File
+to calculate hash (sha1.sha256,md5) of a given File just enter the path to that file and you have the hash.
 
 # Check if you are local Administrator
 to check if you are local Administrator just run this script

@@ -39,6 +39,7 @@ just open it in anywhere you like,usb flash drive or external hard drives ...
 
 # Getting information about disks in CMD
 to get information of how many disk you have on this pc
+
     fsutil fsinfo drives
 
 also in powershell

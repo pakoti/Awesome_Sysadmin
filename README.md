@@ -20,7 +20,7 @@ If you are looking for Scripts to automate tasks or new solutions in windows or 
 
 | Command | Description |
 | --- | --- |
-| Python Port scanner | Python app that scan ports on localhost |
+| Python Port scanner | Python app that scan ports on localhost | 
 | Active Directory one liners | one-liners to manage AD |
 | Finding Forgotten Wifi Passwords| Show Forgotten Wifi Passwords IN CLEAR TEXT |
 | Network Interfaces in CMD | Show Network Interfaces in detail |
@@ -42,32 +42,44 @@ If you are looking for Scripts to automate tasks or new solutions in windows or 
 
 | Command | Description |
 | --- | --- |
-| git status | List all new or modified files |
-| git diff | Show file differences that haven't been staged |
+| Wevtutil | retrieve information about event logs and publishers |
+| Event Viewer | Show event in windows |
+| Bypass windows Login | easilly bypass windows login in |
+| Calculate hash of a given File | easily calculate hash |
+| Check if you are local Administrator | just a script to show your privilages |
 
 ## Virtualization
 
-
-
 | Command | Description |
 | --- | --- |
-| git status | List all new or modified files |
-| git diff | Show file differences that haven't been staged |
+| vbox in bash |scripts for vms that are running and getting info |
+
 
 
 ## Storage
 
 | Command | Description |
 | --- | --- |
-| git status | List all new or modified files |
-| git diff | Show file differences that haven't been staged |
+| Disk scan in windows | scan for corrupted disks |
+| Unditected Hard Drives While booting | a rare event occure in some motherboards |
+| How to organize Files in a Directory | Sort directories magically |
+| Getting information about disks in CMD | Show detailed information of Disks |
 
 ## Printers
 
+
+<ul>
+<li>List All Printers</li>
+<li>Cancel Printers Jobs</li>
+<li>List All Printers Jobs</li>
+</ul>
+
+
 | Title | Description |
 | --- | --- |
-| git status | List all new or modified files |
-| git diff | Show file differences that haven't been staged |
+| List All Printers | how to do it both in cmd and powershell |
+| List All Printers Jobs | List all files |
+| Cancel Printers Jobs | cancel all annoying jobs instantly! |
 
 ## Author
 [Dark Master!](https://github.com/pakoti)

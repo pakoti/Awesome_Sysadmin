@@ -4,7 +4,8 @@ as a sys admin dealing with storage is so much stressing because you need backup
 
 <ul>
 <li>Disk scan in windows</li>
-<li></li>
+<li>Unditected Hard Drives While booting</li>
+<li>How to organize Files in a Directory</li>
 <li></li>
 </ul>
 
@@ -21,5 +22,17 @@ as a sys admin dealing with storage is so much stressing because you need backup
 
 # Unditected Hard Drives While booting
 i am trying to install windows 10 or 11 but my hard drives aren't detected in list disk and also i can't see in my disks what should i do?
-<p>just disable secure boot and VDM in bios setting.</p>
+<p>just disable secure boot and VDM in bios setting! and then try to boot on usb that contain windows .iso</p>
+
+# How to organize Files in a Directory
+open a notepad  and then copy this code in it and save it .bat format 
+
+    @echo off
+    for %%a in (".\*") do (
+    if "%%~xa" NEQ "" if "%%~dpxa" NEQ "%~dpx0" (
+    if not exist "%%~xa" mkdir "%%~xa"
+    move "%%a" "%%~dpa%%~xa\"
+    ))
+
+just open it in anywhere you like,usb flash drive or external hard drives ...
 

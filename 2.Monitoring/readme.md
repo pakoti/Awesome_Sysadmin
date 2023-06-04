@@ -4,12 +4,12 @@ how to monitor resources in windows and also linux.keep in mind that win+x in wi
 
 
 <ul>
-<li>Basic Coomand in CMD</li>
-<li>How to see users and groups in CMD</li>
-<li></li>
+<li>Shared FileSystems in CMD</li>
+<li>users and groups in CMD</li>
 </ul>
 
-# Basic Coomand in CMD
+# Shared FileSystems in CMD
+How to see Shared FileSystems in CMD
 <ul>
 <li>Display shared filesystems:
 
@@ -52,13 +52,11 @@ how to monitor resources in windows and also linux.keep in mind that win+x in wi
     assoc
 
 </li>
-
-<li></li>
 </ul>
 
 
-# How to see users and groups in CMD
-
+# users and groups in CMD
+How to see users and groups in CMD.it is usefull when you want to manage them and give users permissions based on their accounts and groups.
 <ul>
 <li>1.how to users:
 
@@ -75,6 +73,4 @@ how to monitor resources in windows and also linux.keep in mind that win+x in wi
     whoami/all
 
 </li>
-<li></li>
-
 </ul>

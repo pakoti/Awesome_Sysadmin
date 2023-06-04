@@ -36,12 +36,12 @@ Enables you to retrieve information about event logs and publishers in powershel
 </ul>
 
 # Event Viewer
-Event Viewer is a component of Microsoft's Windows operating system that lets administrators and users view the event logs on a local or remote machine.just type
+Event Viewer is a component of Microsoft's Windows operating system that lets administrators and users view the event logs on a local or remote machine.just type:
 
     eventvwr
 
 # Recover windows without password
-as you may know you can open accounts on any windows machine without any passwords by just a windwos bootable usb.when installation go repair this pc and open command prompt and type this command.
+as you may know you can open accounts on any windows machine without any passwords by just a windwos bootable usb .this is why you should be aware of physical security.when installation go repair this pc and open command prompt and type this command.
 
     move c:\windows\system32\utilman.exe c:\ 
 

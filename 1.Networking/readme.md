@@ -5,9 +5,9 @@ in this section some tools and techniques that are used widely,are described .ke
 <li>Python Port scanner</li>
 <li>Active Directory one liners</li>
 <li>Finding Forgotten Wifi Passwords</li>
-<li>ipconfig </li>
+<li>Network Interfaces in CMD</li>
 <li>Managing users</li>
-<li></li>
+<li>Managing network connection</li>
 </ul>
 
 # Python Port scanner
@@ -70,7 +70,7 @@ To find passwords that were forgotten by using CMD and Powershell
 </ul>
 
 
-# ipconfig 
+# Network Interfaces in CMD
 
 <ul>
 <li>/renew switch will renew DHCP address for all network cards:
@@ -115,3 +115,8 @@ To find passwords that were forgotten by using CMD and Powershell
 simply type lusrmgr.msc  on run and a GUI will open.
 
     lusrmgr.msc
+
+# Managing network connection
+to see network connection,interfaces and also VPN connections just type this command in run:
+
+    ncpa.cpl

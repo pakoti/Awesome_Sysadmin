@@ -30,10 +30,20 @@ If you are looking for Scripts to automate tasks or new solutions in windows or 
 
 ## Monitoring
 
+<ul>
+<li>Shared FileSystems in CMD</li>
+<li>users and groups in CMD</li>
+<li>Get services in powershell</li>
+<li>Search a file by CMD</li>
+<li>How to monitor CPU tempeture in powershell</li>
+</ul>
 | Command | Description |
 | --- | --- |
-| git status | List all new or modified files |
-| git diff | Show file differences that haven't been staged |
+| Shared FileSystems in CMD | List all Shared FileSystems |
+| users and groups in CMD | Show users and groups |
+| Get services in powershell | List all servicess |
+| Search a file by CMD| search faster by using CMD |
+| How to monitor CPU tempeture in powershell | monitor hardware by only cli tools |
 
 ## Security
 

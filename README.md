@@ -4,17 +4,17 @@
 
 
 # awesome_Sysadmin
-If you are looking for Scripts to automate tasks or new solutions in windows or linux environments. System administrators and also help desk specialists can use this repository.by using powershell and also bash script we can easily do tasks that previsouly needed so much time.
+ Mega Collection of Scripts,one-liners,Techniques to Troubleshoot,Solve problems for system administartors.
 <ul>
-<li>Networking</li>
-<li>Monitoring</li>
-<li>Security</li>
-<li>Virtualization</li>
-<li>Storage</li>
-<li>Printers</li>
+<li>1.Networking</li>
+<li>2.Monitoring</li>
+<li>3.Security</li>
+<li>4.Virtualization</li>
+<li>5.Storage</li>
+<li>6.Printers</li>
 </ul>
 
-<p>as system administrator i faced tasks which with scripting languages it is much more easier and safer to do it this way.</p>
+<p>If you are looking for Scripts to automate tasks or new solutions in windows or linux environments. System administrators and also help desk specialists can use this repository.by using powershell and also bash script we can easily do tasks that previsouly needed so much time.as system administrator i faced tasks which with scripting languages it is much more easier and safer to do it this way.</p>
 
 ## Networking
 

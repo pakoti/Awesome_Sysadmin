@@ -1,5 +1,5 @@
 # Printers
-How to work and deal with printers in real world using powershell.
+How to work and deal with printers in real world using powershell.we all encountered annoying printers and also to cancel them takes time.read this and solve problems in just a click from now on.
 
 <ul>
 <li>List All Printers</li>

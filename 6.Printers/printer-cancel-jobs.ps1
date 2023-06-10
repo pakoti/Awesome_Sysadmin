@@ -15,6 +15,6 @@ try {
 	"all printers jobs removed."
 	exit 0 # success
 } catch {
-	"⚠️ Error in line $($_.InvocationInfo.ScriptLineNumber): $($Error[0])"
+	"Error Line $($_.InvocationInfo.ScriptLineNumber): $($Error[0])"
 	exit 1
 }

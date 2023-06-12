@@ -85,7 +85,8 @@ netplwiz| To grant access to your computer to users|<a href="https://github.com/
 # Windows Installation Errors
 
 | Title | Description | Link|
-| install win11 | how to solve this"... to install this version of windows" |<a href="https://github.com/pakoti/awesome_Sysadmin/tree/main/8.Installation_Errors" >See More</a> |
+| --- | --- | --- |
+| install win11 | how to solve "... to install this version of windows" |<a href="https://github.com/pakoti/awesome_Sysadmin/tree/main/8.Installation_Errors" >See More</a> |
 
 
 ## Author

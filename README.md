@@ -85,8 +85,7 @@ netplwiz| To grant access to your computer to users|<a href="https://github.com/
 # Windows Installation Errors
 
 | Title | Description | Link|
-| Errors installing windows11 | how to solve this"    this computer does not meet the minimum requirements to install this version of windows
-" |<a href="https://github.com/pakoti/awesome_Sysadmin/tree/main/8.Installation_Errors" >See More</a> |
+| Errors installing windows11 | how to solve this"... to install this version of windows" |<a href="https://github.com/pakoti/awesome_Sysadmin/tree/main/8.Installation_Errors" >See More</a> |
 
 
 ## Author

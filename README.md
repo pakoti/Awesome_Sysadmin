@@ -13,6 +13,7 @@
 <li>5.Storage</li>
 <li>6.Printers</li>
 <li>7.Active Directory</li>
+<li>8.Windows Installation Errors</li>
 </ul>
 
 <p>If you are looking for Scripts to automate tasks or new solutions in windows or linux environments. System administrators and also help desk specialists can use this repository.by using powershell and also bash script we can easily do tasks that previsouly needed so much time.as system administrator i faced tasks which with scripting languages it is much more easier and safer to do it this way.</p>
@@ -79,6 +80,13 @@ netplwiz| To grant access to your computer to users|<a href="https://github.com/
 
 | Title | Description | Link|
 | --- | --- | --- |
+
+
+# Windows Installation Errors
+
+| Title | Description | Link|
+| Installation Error | --- |<a href="https://github.com/pakoti/awesome_Sysadmin/tree/main/8.Installation_Errors" >See More</a> |
+
 
 ## Author
 [Dark Master!](https://github.com/pakoti)

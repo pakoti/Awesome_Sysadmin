@@ -2,8 +2,9 @@
 
 when i wanted to install windowss 11 on a new motherboard i sa this error:
 
-    this computer does not meet the minimum requirements to install this version of windows
-
+    This PC can’t run Windows 11
+    This PC doesn’t meet the minimum system requirements to install this version of Windows. For more information, visit https://aka.ms/WindowsSysReq.
+    
 so i searched whole web and found this answer to my problem.
 
 <ul>

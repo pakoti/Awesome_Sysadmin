@@ -22,40 +22,40 @@
 
 | Title | Description | Link|
 | --- | --- | --- |
-| Python Port scanner | Python app that scan ports on localhost | <a href="https://github.com/pakoti/awesome_Sysadmin/tree/main/1.Networking" >See More</a> |
-| Active Directory one liners | one-liners to manage AD |<a href="https://github.com/pakoti/awesome_Sysadmin/tree/main/1.Networking" >See More</a> |
-| Finding Forgotten Wifi Passwords| Show Forgotten Wifi Passwords IN CLEAR TEXT |<a href="https://github.com/pakoti/awesome_Sysadmin/tree/main/1.Networking" >See More</a> |
-| Network Interfaces in CMD | Show Network Interfaces in detail |<a href="https://github.com/pakoti/awesome_Sysadmin/tree/main/1.Networking" >See More</a> |
-| Managing users | add or delete users |<a href="https://github.com/pakoti/awesome_Sysadmin/tree/main/1.Networking" >See More</a> |
-| Managing network connection | Show interfaces much more easier way |<a href="https://github.com/pakoti/awesome_Sysadmin/tree/main/1.Networking" >See More</a> |
-| lists of Hosts in Windows | Show localhosts and thier ips |<a href="https://github.com/pakoti/awesome_Sysadmin/tree/main/1.Networking" >See More</a> |
+| Port scanner | Python app that scan ports on localhost | <a href="https://github.com/pakoti/Awesome_Sysadmin/blob/main/1.Networking/readme.md" >See More</a> |
+| Active Directory one liners | one-liners to manage AD |<a href="https://github.com/pakoti/Awesome_Sysadmin/blob/main/1.Networking/readme.md" >See More</a> |
+| Forgotten Wifi Passwords | Show Forgotten Wifi Passwords IN CLEAR TEXT |<a href="https://github.com/pakoti/Awesome_Sysadmin/blob/main/1.Networking/readme.md" >See More</a> |
+| Network Interfaces | Show Network Interfaces in detail in CMD |<a href="https://github.com/pakoti/Awesome_Sysadmin/blob/main/1.Networking/readme.md" >See More</a> |
+| Managing users | add or delete users |<a href="https://github.com/pakoti/Awesome_Sysadmin/blob/main/1.Networking/readme.md" >See More</a> |
+| Managing network connection | Show interfaces much more easier way |<a href="https://github.com/pakoti/Awesome_Sysadmin/blob/main/1.Networking/readme.md" >See More</a> |
+| Hosts in Windows | Show localhosts and thier ips |<a href="https://github.com/pakoti/Awesome_Sysadmin/blob/main/1.Networking/readme.md" >See More</a> |
 
 ## Monitoring
 
 | Title | Description | Link|
 | --- | --- | --- |
-| Shared FileSystems in CMD | List all Shared FileSystems |<a href="https://github.com/pakoti/awesome_Sysadmin/tree/main/2.Monitoring" >See More</a> |
-| users and groups in CMD | Show users and groups |<a href="https://github.com/pakoti/awesome_Sysadmin/tree/main/2.Monitoring" >See More</a> |
-| Get services in powershell | List all servicess |<a href="https://github.com/pakoti/awesome_Sysadmin/tree/main/2.Monitoring" >See More</a> |
-| Search a file by CMD| search faster by using CMD |<a href="https://github.com/pakoti/awesome_Sysadmin/tree/main/2.Monitoring" >See More</a> |
-| How to monitor CPU tempeture in powershell | monitor hardware by only cli tools |<a href="https://github.com/pakoti/awesome_Sysadmin/tree/main/2.Monitoring" >See More</a> |
+| Shared FileSystems| List all Shared FileSystems in CMD|<a href="https://github.com/pakoti/Awesome_Sysadmin/blob/main/2.Monitoring/readme.md" >See More</a> |
+| users and groups| Show users and groups in CMD |<a href="https://github.com/pakoti/Awesome_Sysadmin/blob/main/2.Monitoring/readme.md" >See More</a> |
+| show services| List all servicess  in powershell |<a href="https://github.com/pakoti/Awesome_Sysadmin/blob/main/2.Monitoring/readme.md" >See More</a> |
+| Search file| search faster by using CMD |<a href="https://github.com/pakoti/Awesome_Sysadmin/blob/main/2.Monitoring/readme.md" >See More</a> |
+| monitor CPU tempeture  | monitor hardware by powershell |<a href="https://github.com/pakoti/Awesome_Sysadmin/blob/main/2.Monitoring/readme.md" >See More</a> |
 
 ## Security
 
 | Title | Description | Link|
 | --- | --- | --- |
-| Wevtutil | retrieve information about event logs and publishers |<a href="https://github.com/pakoti/awesome_Sysadmin/tree/main/3.Security" >See More</a> |
-| Event Viewer | Show event in windows |<a href="https://github.com/pakoti/awesome_Sysadmin/tree/main/3.Security" >See More</a> |
-| Bypass windows Login | easilly bypass windows login in |<a href="https://github.com/pakoti/awesome_Sysadmin/tree/main/3.Security" >See More</a> |
-| Calculate hash of a given File | easily calculate hash |<a href="https://github.com/pakoti/awesome_Sysadmin/tree/main/3.Security" >See More</a> |
-| Check if you are local Administrator | just a script to show your privilages |<a href="https://github.com/pakoti/awesome_Sysadmin/tree/main/3.Security" >See More</a> |
-netplwiz| To grant access to your computer to users|<a href="https://github.com/pakoti/awesome_Sysadmin/tree/main/3.Security" >See More</a> |
+| Wevtutil | retrieve information about event logs and publishers |<a href="https://github.com/pakoti/Awesome_Sysadmin/blob/main/3.Security/readme.md" >See More</a> |
+| Event Viewer | Show event in windows |<a href="https://github.com/pakoti/Awesome_Sysadmin/blob/main/3.Security/readme.md" >See More</a> |
+| Bypass windows Login | easilly bypass windows login in |<a href="https://github.com/pakoti/Awesome_Sysadmin/blob/main/3.Security/readme.md" >See More</a> |
+| Calculate Hash | easily calculate hash of a given File |<a href="https://github.com/pakoti/Awesome_Sysadmin/blob/main/3.Security/readme.md" >See More</a> |
+| local Administrator check | just a script to show your privilages |<a href="https://github.com/pakoti/Awesome_Sysadmin/blob/main/3.Security/readme.md" >See More</a> |
+| netplwiz | To grant access to your computer to users|<a href="https://github.com/pakoti/Awesome_Sysadmin/blob/main/3.Security/readme.md" >See More</a> |
 
 ## Virtualization
 
 | Title | Description | Link|
 | --- | --- | --- |
-| vbox in bash |scripts for vms that are running and getting info |<a href="https://github.com/pakoti/awesome_Sysadmin/tree/main/4.Virtualization" >See More</a> |
+| VirtualBox |scripts for vms that are running and getting info |<a href="https://github.com/pakoti/awesome_Sysadmin/tree/main/4.Virtualization/readme.md" >See More</a> |
 
 
 
@@ -63,18 +63,19 @@ netplwiz| To grant access to your computer to users|<a href="https://github.com/
 
 | Title | Description | Link|
 | --- | --- | --- |
-| Disk scan in windows | scan for corrupted disks |<a href="https://github.com/pakoti/awesome_Sysadmin/tree/main/5.Storage" >See More</a> |
-| Unditected Hard Drives While booting | a rare event occure in some motherboards |<a href="https://github.com/pakoti/awesome_Sysadmin/tree/main/5.Storage" >See More</a> |
-| How to organize Files in a Directory | Sort directories magically |<a href="https://github.com/pakoti/awesome_Sysadmin/tree/main/5.Storage" >See More</a> |
-| Getting information about disks in CMD | Show detailed information of Disks |<a href="https://github.com/pakoti/awesome_Sysadmin/tree/main/5.Storage" >See More</a> |
+| Disk scan in windows | scan for corrupted disks |<a href="https://github.com/pakoti/Awesome_Sysadmin/blob/main/5.Storage/readme.md" >See More</a> |
+| Unditected Hard Drives While booting | a rare event occure in some motherboards |<a href="https://github.com/pakoti/Awesome_Sysadmin/blob/main/5.Storage/readme.md" >See More</a> |
+| How to organize Files in a Directory | Sort directories magically |<a href="https://github.com/pakoti/Awesome_Sysadmin/blob/main/5.Storage/readme.md" >See More</a> |
+| Getting information about disks in CMD | Show detailed information of Disks |<a href="https://github.com/pakoti/Awesome_Sysadmin/blob/main/5.Storage/readme.md" >See More</a> |
 
 ## Printers
 
 | Title | Description | Link|
 | --- | --- | --- |
-| List All Printers | how to do it both in cmd and powershell |<a href="https://github.com/pakoti/awesome_Sysadmin/tree/main/6.Printers" >See More</a> |
-| List All Printers Jobs | List all files |<a href="https://github.com/pakoti/awesome_Sysadmin/tree/main/6.Printers" >See More</a> |
-| Cancel Printers Jobs | cancel all annoying jobs instantly! |<a href="https://github.com/pakoti/awesome_Sysadmin/tree/main/6.Printers" >See More</a> |
+| List All Printers | how to do it both in cmd and powershell |<a href="https://github.com/pakoti/Awesome_Sysadmin/blob/main/6.Printers/readme.md" >See More</a> |
+| List All Printers Jobs | List all files |<a href="https://github.com/pakoti/Awesome_Sysadmin/blob/main/6.Printers/readme.md" >See More</a> |
+| Cancel Printers Jobs | cancel all annoying jobs instantly! |<a href="https://github.com/pakoti/Awesome_Sysadmin/blob/main/6.Printers/readme.md" >See More</a> |
+||||
 
 ## Active Directory
 
@@ -86,7 +87,7 @@ netplwiz| To grant access to your computer to users|<a href="https://github.com/
 
 | Title | Description | Link|
 | --- | --- | --- |
-| install win11 | how to solve "This PC can’t run Windows 11" |<a href="https://github.com/pakoti/awesome_Sysadmin/tree/main/8.Installation_Errors" >See More</a> |
+| install win11 | how to solve "This PC can’t run Windows 11" |<a href="https://github.com/pakoti/awesome_Sysadmin/tree/main/8.Installation_Errors/readme.md" >See More</a> |
 
 
 ## Author

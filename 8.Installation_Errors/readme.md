@@ -14,3 +14,5 @@ so i searched whole web and found this answer to my problem.
 <li>4.Edit both vlaues to 1</li>
 <li>5.and its finished and you can now install windows 11 without any problem.</li>
 </ul>
+
+<img src="Error.jpg" alt="Error picture">

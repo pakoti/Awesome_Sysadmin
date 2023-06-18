@@ -55,7 +55,7 @@
 
 | Title | Description | Link|
 | --- | --- | --- |
-| VirtualBox |scripts for vms that are running and getting info |<a href="https://github.com/pakoti/awesome_Sysadmin/tree/main/4.Virtualization/readme.md" >See More</a> |
+| VirtualBox |one-liners to dominate virtualbox |<a href="https://github.com/pakoti/awesome_Sysadmin/tree/main/4.Virtualization/readme.md" >See More</a> |
 
 
 
@@ -75,7 +75,7 @@
 | List All Printers | how to do it both in cmd and powershell |<a href="https://github.com/pakoti/Awesome_Sysadmin/blob/main/6.Printers/readme.md" >See More</a> |
 | List All Printers Jobs | List all files |<a href="https://github.com/pakoti/Awesome_Sysadmin/blob/main/6.Printers/readme.md" >See More</a> |
 | Cancel Printers Jobs | cancel all annoying jobs instantly! |<a href="https://github.com/pakoti/Awesome_Sysadmin/blob/main/6.Printers/readme.md" >See More</a> |
-||||
+|Share Local Printer|share a printer that connected to a computer without a LAN|<a href="https://github.com/pakoti/Awesome_Sysadmin/blob/main/6.Printers/readme.md" >See More</a>|
 
 ## Active Directory
 

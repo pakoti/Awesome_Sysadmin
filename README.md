@@ -76,6 +76,8 @@
 
 | Title | Description | Link|
 | --- | --- | --- |
+| Password policy     | restart password    |<a href="https://github.com/pakoti/Awesome_Sysadmin/blob/main/7.Active_Directory/readme.md" >See More</a>|  
+| Password policy     | force to restart password at first login   |<a href="https://github.com/pakoti/Awesome_Sysadmin/blob/main/7.Active_Directory/readme.md" >See More</a>|  
 
 
 # Windows Installation Errors

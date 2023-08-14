@@ -90,7 +90,7 @@
 ## Powershell
 
 | Title | Description |Link|
-|--- | --- |
+|--- | --- | --- |
 | powershell commands  | list of important command  |<a href="https://github.com/pakoti/awesome_Sysadmin/tree/main/9.Powershell/readme.md" >See More</a> |
 | bin-lister.ps1| lists all content of recycle bin | <a href="https://github.com/pakoti/awesome_Sysadmin/tree/main/9.Powershell/readme.md" >See More</a> |
 | chrome-installer.ps1| install chrome with just a script | <a href="https://github.com/pakoti/awesome_Sysadmin/tree/main/9.Powershell/readme.md" >See More</a> |

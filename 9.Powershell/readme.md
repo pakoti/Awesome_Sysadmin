@@ -66,6 +66,18 @@ Windows will display the full command syntax
 
 
 ## Powershell scripts
-| Title | Description | Link|
-| --- | --- | --- |
+| Title | Description |
+| bin-lister.ps1| --- | 
+| chrome-installer.ps1| --- | 
+| clipboard.ps1 | --- | 
+| Disk-checker.ps1 | --- | 
+| file-system-checker.ps1 | --- | 
+| firefox-installer.ps1 | --- | 
+| list_installed_software.ps1 | --- | 
+| network-restarter.ps1 | --- | 
+| network-share-lists.ps1 | --- | 
+| ping_tester.ps1| --- | 
+| port-tester.ps1 | --- | 
+|swap_tester.ps1|---|
+
 

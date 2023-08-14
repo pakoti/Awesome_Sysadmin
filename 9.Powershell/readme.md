@@ -4,10 +4,16 @@ cool tricks and techniques used in windows environments
 <ul>
 <li>1: Get-Help
   
-  Get-Help -Name Get-Process
-  
+      Get-Help -Name Get-Process
+
 Windows will display the full command syntax</li>
-<li></li>
+<li>2: Set-ExecutionPolicy
+
+  Restricted 
+  All Signed
+  Remote Signed
+  Unrestricted
+</li>
 <li></li>
 <li></li>
 <li></li>

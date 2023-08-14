@@ -89,8 +89,20 @@
 
 ## Powershell
 
-| Title | Description | Link|
-| --- | --- | --- |
+| Title | Description |Link|
+|--- | --- |
+| powershell commands  | list of important command  |<a href="https://github.com/pakoti/awesome_Sysadmin/tree/main/9.Powershell/readme.md" >See More</a> |
+| bin-lister.ps1| lists all content of recycle bin | <a href="https://github.com/pakoti/awesome_Sysadmin/tree/main/9.Powershell/readme.md" >See More</a> |
+| chrome-installer.ps1| install chrome with just a script | <a href="https://github.com/pakoti/awesome_Sysadmin/tree/main/9.Powershell/readme.md" >See More</a> |
+| firefox-installer.ps1 |install firefox with just a script |<a href="https://github.com/pakoti/awesome_Sysadmin/tree/main/9.Powershell/readme.md" >See More</a> |
+| clipboard.ps1 | show what clipboard has | <a href="https://github.com/pakoti/awesome_Sysadmin/tree/main/9.Powershell/readme.md" >See More</a> |
+| Disk-checker.ps1 | list all disks and show it volume |  <a href="https://github.com/pakoti/awesome_Sysadmin/tree/main/9.Powershell/readme.md" >See More</a> |
+| list_installed_software.ps1 | list all installed softwares| <a href="https://github.com/pakoti/awesome_Sysadmin/tree/main/9.Powershell/readme.md" >See More</a> |
+| network-restarter.ps1 | restart all network adaptors | <a href="https://github.com/pakoti/awesome_Sysadmin/tree/main/9.Powershell/readme.md" >See More</a> |
+| network-share-lists.ps1 | shows all network share lists | <a href="https://github.com/pakoti/awesome_Sysadmin/tree/main/9.Powershell/readme.md" >See More</a> |
+| ping_tester.ps1| test quality of network by ping | <a href="https://github.com/pakoti/awesome_Sysadmin/tree/main/9.Powershell/readme.md" >See More</a> |
+| port-tester.ps1 | test if ports are open | <a href="https://github.com/pakoti/awesome_Sysadmin/tree/main/9.Powershell/readme.md" >See More</a> |
+|swap_tester.ps1|test swap partition of filesystem|<a href="https://github.com/pakoti/awesome_Sysadmin/tree/main/9.Powershell/readme.md" >See More</a> |
 
 ## Author
 [Dark Master!](https://github.com/pakoti)

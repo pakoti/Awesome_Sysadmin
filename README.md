@@ -9,6 +9,7 @@
 <li>6.Printers</li>
 <li>7.Active Directory</li>
 <li>8.Windows Installation Errors</li>
+<li>9.Powershell</li>
 </ul>
 
 <p>If you are looking for Scripts to automate tasks or new solutions in windows or linux environments. System administrators and also help desk specialists can use this repository.by using powershell and also bash script we can easily do tasks that previsouly needed so much time.as system administrator i faced tasks which with scripting languages it is much more easier and safer to do it this way.</p>
@@ -80,12 +81,16 @@
 | Password policy     | force to restart password at first login   |<a href="https://github.com/pakoti/Awesome_Sysadmin/blob/main/7.Active_Directory/readme.md" >See More</a>|  
 
 
-# Windows Installation Errors
+## Windows Installation Errors
 
 | Title | Description | Link|
 | --- | --- | --- |
 | install win11 | how to solve "This PC can’t run Windows 11" |<a href="https://github.com/pakoti/awesome_Sysadmin/tree/main/8.Installation_Errors/readme.md" >See More</a> |
 
+## Powershell
+
+| Title | Description | Link|
+| --- | --- | --- |
 
 ## Author
 [Dark Master!](https://github.com/pakoti)

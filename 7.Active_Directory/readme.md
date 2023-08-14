@@ -1,8 +1,6 @@
 # Active Directory
 ONE-LINERS in powershell.
 
-
-
 <ul>
 <li>Reset password: 
 

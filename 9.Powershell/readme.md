@@ -67,6 +67,7 @@ Windows will display the full command syntax
 
 ## Powershell scripts
 | Title | Description |
+|--- | --- |
 | bin-lister.ps1| lists all content of recycle bin | 
 | chrome-installer.ps1| install chrome with just a script | 
 | firefox-installer.ps1 |install firefox with just a script |

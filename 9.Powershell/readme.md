@@ -67,17 +67,16 @@ Windows will display the full command syntax
 
 ## Powershell scripts
 | Title | Description |
-| bin-lister.ps1| --- | 
-| chrome-installer.ps1| --- | 
-| clipboard.ps1 | --- | 
-| Disk-checker.ps1 | --- | 
-| file-system-checker.ps1 | --- | 
-| firefox-installer.ps1 | --- | 
-| list_installed_software.ps1 | --- | 
-| network-restarter.ps1 | --- | 
-| network-share-lists.ps1 | --- | 
-| ping_tester.ps1| --- | 
-| port-tester.ps1 | --- | 
-|swap_tester.ps1|---|
+| bin-lister.ps1| lists all content of recycle bin | 
+| chrome-installer.ps1| install chrome with just a script | 
+| firefox-installer.ps1 |install firefox with just a script |
+| clipboard.ps1 | show what clipboard has | 
+| Disk-checker.ps1 | list all disks and show it volume |  
+| list_installed_software.ps1 | list all installed softwares| 
+| network-restarter.ps1 | restart all network adaptors | 
+| network-share-lists.ps1 | shows all network share lists | 
+| ping_tester.ps1| test quality of network by ping | 
+| port-tester.ps1 | test if ports are open | 
+|swap_tester.ps1|test swap partition of filesystem|
 
 

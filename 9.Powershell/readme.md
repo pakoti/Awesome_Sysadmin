@@ -1,14 +1,21 @@
 # Powershell
+
+
+
+
+
+
+## Powershell commands
 cool tricks and techniques used in windows environments
 
 <ul>
-<li>1: Get-Help
+<li>how to Get Help
   
       Get-Help -Name Get-Process
 
-Windows will display the full command syntax</li>
-<li>
-2: how to Set Execution Policy
+Windows will display the full command syntax
+</li>
+<li>how to Set Execution Policy
 
     Set-ExecutionPolicy
 
@@ -17,58 +24,42 @@ Windows will display the full command syntax</li>
     Remote Signed
     Unrestricted
 </li>
-<li>
-3:how to get Execution Policy
+<li>how to get Execution Policy
 
     Get-ExecutionPolicy
 
 </li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
+<li>how to information about services
+
+    Get-Service
+
+</li>
+
+<li>Export-CSV
+
+    Get-Service | Export-CSV c:\service.csv
+
+</li>
+
+<li>how to Get EventLog
+
+    Get-EventLog -Log "Application"
+
+</li>
+<li>how to  Get Process
+
+    Get-Process
+
+</li>
+
+<li>how to  Stop Process
+
+    Stop-Process -Name notepad<br> Stop-Process -ID 2668</li>
 
 </ul>
 
 
-
-
-
-2: Set-ExecutionPolicy
-
-Restricted 
-All Signed
-Remote Signed
-Unrestricted
-
-
-
-4: Get-Service
-
-5: ConvertTo-HTML
-Get-Service | ConvertTo-HTML -Property Name, Status > C:\services.htm
-
-
-6: Export-CSV
-Get-Service | Export-CSV c:\service.csv
-
-7: Select-Object
-Get-Service | Select-Object Name, Status | Export-CSV c:\service.csv
-
-8: Get-EventLog
-Get-EventLog -Log "Application"
-
-
-9: Get-Process
-
-
-10: Stop-Process
-
-Stop-Process -Name notepad<br> Stop-Process -ID 2668
-
-
+## Powershell scripts
 | Title | Description | Link|
 | --- | --- | --- |
+

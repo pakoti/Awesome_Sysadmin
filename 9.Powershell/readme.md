@@ -1,12 +1,26 @@
 # Powershell
 cool tricks and techniques used in windows environments
 
-
-
-
-1: Get-Help
+<ul>
+<li>1: Get-Help
+  
   Get-Help -Name Get-Process
-Windows will display the full command syntax
+  
+Windows will display the full command syntax</li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+
+</ul>
+
+
+
 
 
 2: Set-ExecutionPolicy

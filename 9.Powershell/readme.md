@@ -1,5 +1,9 @@
 # Powershell
 
+<ul>
+<li>powershell commands</li>
+<li>powershell scripts</li>
+</ul>
 
 
 
@@ -55,7 +59,7 @@ Windows will display the full command syntax
 <li>how to  Stop Process
 
     Stop-Process -Name notepad<br> Stop-Process -ID 2668
-    
+
 </li>
 
 </ul>

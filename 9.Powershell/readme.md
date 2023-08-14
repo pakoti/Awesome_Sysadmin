@@ -7,14 +7,22 @@ cool tricks and techniques used in windows environments
       Get-Help -Name Get-Process
 
 Windows will display the full command syntax</li>
-<li>2: Set-ExecutionPolicy
+<li>
+2: how to Set Execution Policy
 
-  Restricted 
-  All Signed
-  Remote Signed
-  Unrestricted
+    Set-ExecutionPolicy
+
+    Restricted 
+    All Signed
+    Remote Signed
+    Unrestricted
 </li>
-<li></li>
+<li>
+3:how to get Execution Policy
+
+    Get-ExecutionPolicy
+
+</li>
 <li></li>
 <li></li>
 <li></li>
@@ -36,7 +44,7 @@ All Signed
 Remote Signed
 Unrestricted
 
-3: Get-ExecutionPolicy
+
 
 4: Get-Service
 
@@ -62,3 +70,5 @@ Get-EventLog -Log "Application"
 Stop-Process -Name notepad<br> Stop-Process -ID 2668
 
 
+| Title | Description | Link|
+| --- | --- | --- |

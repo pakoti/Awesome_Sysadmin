@@ -79,6 +79,11 @@
 | --- | --- | --- |
 | Password policy     | restart password    |<a href="https://github.com/pakoti/Awesome_Sysadmin/blob/main/7.Active_Directory/readme.md" >See More</a>|  
 | Password policy     | force to restart password at first login   |<a href="https://github.com/pakoti/Awesome_Sysadmin/blob/main/7.Active_Directory/readme.md" >See More</a>|  
+|Unlock User account|**|<a href="https://github.com/pakoti/Awesome_Sysadmin/blob/main/7.Active_Directory/readme.md" >See More</a>|
+|Find account inactive for last 90 days|**|<a href="https://github.com/pakoti/Awesome_Sysadmin/blob/main/7.Active_Directory/readme.md" >See More</a>|
+|Find all locked out account in active directory|**|<a href="https://github.com/pakoti/Awesome_Sysadmin/blob/main/7.Active_Directory/readme.md" >See More</a>|
+|Check If Users password expired|**|<a href="https://github.com/pakoti/Awesome_Sysadmin/blob/main/7.Active_Directory/readme.md" >See More</a>|
+|Find Users or Computer which are expired|**|<a href="https://github.com/pakoti/Awesome_Sysadmin/blob/main/7.Active_Directory/readme.md" >See More</a>|
 
 
 ## Windows Installation Errors
@@ -103,6 +108,13 @@
 | ping_tester.ps1| test quality of network by ping | <a href="https://github.com/pakoti/awesome_Sysadmin/tree/main/9.Powershell/readme.md" >See More</a> |
 | port-tester.ps1 | test if ports are open | <a href="https://github.com/pakoti/awesome_Sysadmin/tree/main/9.Powershell/readme.md" >See More</a> |
 |swap_tester.ps1|test swap partition of filesystem|<a href="https://github.com/pakoti/awesome_Sysadmin/tree/main/9.Powershell/readme.md" >See More</a> |
+|ballon Tips|show ballon tips|<a href="https://github.com/pakoti/awesome_Sysadmin/tree/main/9.Powershell/readme.md" >See More</a> |
+|close-taskmanager.ps1|closes task manager|<a href="https://github.com/pakoti/awesome_Sysadmin/tree/main/9.Powershell/readme.md" >See More</a> |
+|list-tasks.ps1|This PowerShell script lists all scheduled tasks|<a href="https://github.com/pakoti/awesome_Sysadmin/tree/main/9.Powershell/readme.md" >See More</a> |
+|notification.ps1|shows a notification|<a href="https://github.com/pakoti/awesome_Sysadmin/tree/main/9.Powershell/readme.md" >See More</a> |
+|popup.ps1|shows a pupup in windows|<a href="https://github.com/pakoti/awesome_Sysadmin/tree/main/9.Powershell/readme.md" >See More</a> |
+|remote-sessions.ps1|shows all remote sessions|<a href="https://github.com/pakoti/awesome_Sysadmin/tree/main/9.Powershell/readme.md" >See More</a> |
+|service-status1.ps1|show all services statuses|<a href="https://github.com/pakoti/awesome_Sysadmin/tree/main/9.Powershell/readme.md" >See More</a> |
 
 ## Author
 [Dark Master!](https://github.com/pakoti)

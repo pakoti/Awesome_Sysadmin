@@ -54,11 +54,45 @@ Windows will display the full command syntax
 
     Get-Process
 
+and if you want to exdport to .csv file just:
+
+    Get-Process | Export-CSV PSprocess.csv
+
+
+
 </li>
 
 <li>how to  Stop Process
 
     Stop-Process -Name notepad<br> Stop-Process -ID 2668
+
+</li>
+
+<li>how to get history:
+
+    Get-History
+
+this command is about to get history of commands.
+
+     
+    Get-History Id | fl
+ 
+id will be process id in list
+
+</li>
+
+
+<li>to start process as an administrator:
+
+
+    Start-Process -FilePath "notepad" -Verb runAs
+
+
+</li>
+<li>how to get network adaptors:
+
+
+    Get-NetAdapter
 
 </li>
 
@@ -79,5 +113,11 @@ Windows will display the full command syntax
 | ping_tester.ps1| test quality of network by ping | 
 | port-tester.ps1 | test if ports are open | 
 |swap_tester.ps1|test swap partition of filesystem|
-
+|ballon Tips|show ballon tips|
+|close-taskmanager.ps1|closes task manager|
+|list-tasks.ps1|This PowerShell script lists all scheduled tasks|
+|notification.ps1|shows a notification|
+|popup.ps1|shows a pupup in windows|
+|remote-sessions.ps1|shows all remote sessions|
+|service-status1.ps1|show all services statuses|
 

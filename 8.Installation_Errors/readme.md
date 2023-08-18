@@ -1,5 +1,7 @@
 # Windows Installation Errors
 
+
+## This PC can’t run Windows 11
 when i wanted to install windows 11 on a new motherboard i saw this error:
 
     This PC can’t run Windows 11
@@ -16,3 +18,10 @@ so i searched whole web and found this answer to my problem.
 </ul>
 
 <img src="Error.jpg" alt="Error picture">
+
+## Error 0x80070570
+only reason this happend was that my usb flash drive was damaged electronically!!!
+<img src="0x80070570.jpg" alt="Error picture 2">
+
+
+

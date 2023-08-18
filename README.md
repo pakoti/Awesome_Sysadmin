@@ -91,6 +91,7 @@
 | Title | Description | Link|
 | --- | --- | --- |
 | install win11 | how to solve "This PC can’t run Windows 11" |<a href="https://github.com/pakoti/awesome_Sysadmin/tree/main/8.Installation_Errors/readme.md" >See More</a> |
+|install from usb|Error 0x80070570|<a href="https://github.com/pakoti/awesome_Sysadmin/tree/main/8.Installation_Errors/readme.md" >See More</a>|
 
 ## Powershell
 

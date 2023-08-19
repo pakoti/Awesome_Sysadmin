@@ -10,6 +10,7 @@
 <li>7.Active Directory</li>
 <li>8.Windows Installation Errors</li>
 <li>9.Powershell</li>
+<li>10.Resources</li>
 </ul>
 
 <p>If you are looking for Scripts to automate tasks or new solutions in windows or linux environments. System administrators and also help desk specialists can use this repository.by using powershell and also bash script we can easily do tasks that previsouly needed so much time.as system administrator i faced tasks which with scripting languages it is much more easier and safer to do it this way.</p>
@@ -117,8 +118,18 @@
 |remote-sessions.ps1|shows all remote sessions|<a href="https://github.com/pakoti/awesome_Sysadmin/tree/main/9.Powershell/readme.md" >See More</a> |
 |service-status1.ps1|show all services statuses|<a href="https://github.com/pakoti/awesome_Sysadmin/tree/main/9.Powershell/readme.md" >See More</a> |
 
+## Resources
+I have found some links that i think they are usefull if you want to learn more:
+
+|Title|Description|Link|
+| --- | --- | --- |
+|fleschutz| a github repo full of cool powershell scripts|<a href="https://github.com/fleschutz/PowerShell" >See More</a>|
+
+
+
+
 ## Author
-[Dark Master!](https://github.com/pakoti)
+[mohammad Ezzatzadeh](https://github.com/pakoti)
 
 ## License
 

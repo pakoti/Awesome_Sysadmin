@@ -9,7 +9,7 @@ if you dont have graphical interface or if you have a linux server,and you dont 
 
 
 
-# vbox in bash
+## vbox in bash
 scripts for vms that are running and getting info
 
 
@@ -57,4 +57,20 @@ scripts for vms that are running and getting info
 
     VBoxManage controlvm "UbuntuSERVER Clone" poweroff --type headless
 
+## How to control virtual box by using bash
+if you want to control VMs inside your linux servers.you can use this scripts:
 
+<ul>
+<li>1.list existing vms</li>
+<li>2.getting information about existing vm</li>
+<li>3.turn them on after host boots on</li>
+</ul>
+
+<h1>How to make this scripts executable</h1>
+<p>if you want to make this scripts executable you should run this command:
+
+
+    chmod u+x vminfo.sh
+
+
+</p>

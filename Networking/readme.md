@@ -9,9 +9,11 @@ in this section some tools and techniques that are used widely,are described .ke
 <li>Managing users</li>
 <li>Managing network connection</li>
 <li>lists of Hosts in Windows</li>
+<li>SSH reverse proxy</li>
+<li>Basic Download Manager</li>
 </ul>
 
-# Python Port scanner
+## Python Port scanner
 if you can't scan your localhost for whatever reason use this script to scan your localhost.for running in your sysytem just execute this script:
 
 <ul>
@@ -23,7 +25,7 @@ if you can't scan your localhost for whatever reason use this script to scan you
 </ul>
 
 
-# Active Directory one liners
+## Active Directory one liners
 by using CMD you can be fast and dangerous in windows domains!
 <ul>
 <li>net user The net user command displays user account information on a local computer or the domain.On a PC type net user to see the computer’s account info. 
@@ -47,7 +49,7 @@ by using CMD you can be fast and dangerous in windows domains!
 </ul>
 
 
-# Finding Forgotten Wifi Passwords
+## Finding Forgotten Wifi Passwords
 To find passwords that were forgotten by using CMD and Powershell
 <ul>
 <li>1.To get wifi passwords that are stored in our system:
@@ -71,7 +73,7 @@ To find passwords that were forgotten by using CMD and Powershell
 </ul>
 
 
-# Network Interfaces in CMD
+## Network Interfaces in CMD
 
 <ul>
 <li>/renew switch will renew DHCP address for all network cards:
@@ -112,18 +114,29 @@ To find passwords that were forgotten by using CMD and Powershell
 </li>
 </ul>
 
-# Managing users
+## Managing users
 simply type lusrmgr.msc  on run and a GUI will open.
 
     lusrmgr.msc
 
-# Managing network connection
+## Managing network connection
 to see network connection,interfaces and also VPN connections just type this command in run:
 
     ncpa.cpl
 
 
-# lists of Hosts in Windows
+## lists of Hosts in Windows
 
     type %WINDIR%\System32\drivers\etc\hosts
 
+## SSH Reverse Proxy
+<p>if you want to gain a shell behind firewalls and router that they do NAT (network address translation) and also PAT (Port address translation),and you have no static ip address you can execute this bash scripts to gain so called a reverse shell.it's good for when you want gain shell from outside to your home when you put personal Computer.</p>
+
+
+## Basic Download Manager
+basic automation task like downloading simple links from the web,save them in a directory and then shutdowns the instance.with wget and axel you can simply work with a download manager.you can use simply this tools:
+<ul>
+<li>1.Axel</li>
+<li>2.Wget</li>
+<li>3.Curl</li>
+</ul>

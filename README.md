@@ -1,5 +1,16 @@
-# Awesome_Sysadmin
+# Awesome Sysadmin
+در این مخزن کد سعی کردم  تکنیک ها و روش ها و همچینین کدهایی که می شود با انها راحت می توانیم شبکه را مدیریت کنیم.
+
+
+
+# Awesome Sysadmin
  Mega Collection of Scripts,one-liners,Techniques to Troubleshoot,Solve problems for system administators.
+
+
+
+
+# Lists of content
+
 <ul>
 <lNetworking</li>
 <li>Monitoring</li>
@@ -15,6 +26,10 @@
 </ul>
 
 <p>If you are looking for Scripts to automate tasks or new solutions in windows or linux environments. System administrators and also help desk specialists can use this repository.by using powershell and also bash script we can easily do tasks that previsouly needed so much time.as system administrator i faced tasks which with scripting languages it is much more easier and safer to do it this way.</p>
+
+
+# Table of Contents
+
 
 ## Networking
 
@@ -134,6 +149,7 @@ I have found some links that i think they are usefull if you want to learn more:
 |Title|Description|Link|
 | --- | --- | --- |
 |fleschutz| a github repo full of cool powershell scripts|<a href="https://github.com/fleschutz/PowerShell" >See More</a>|
+|CMD cheatsheet |a cool repository contains cmd command|<a href="https://github.com/security-cheatsheet/cmd-command-cheat-sheet" >See More</a>|
 
 
 

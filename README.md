@@ -95,7 +95,7 @@
 | Title | Description | Link|
 | --- | --- | --- |
 | List All Printers | how to do it both in cmd and powershell |<a href="https://github.com/pakoti/Awesome_Sysadmin/blob/main/Printers/readme.md" >See More</a> |
-| List All Printers Jobs | List all files |<a href="https://github.com/pakoti/Awesome_Sysadmin/blob/main/
+| List All Printers Jobs | List all files |<a href="https://github.com/pakoti/Awesome_Sysadmin/blob/main/Printers/readme.md" >See More</a> |
 | Cancel Printers Jobs | cancel all annoying jobs instantly! |<a href="https://github.com/pakoti/Awesome_Sysadmin/blob/main/Printers/readme.md" >See More</a> |
 |Share Local Printer|share a printer that connected to a computer without a LAN|<a href="https://github.com/pakoti/Awesome_Sysadmin/blob/main/Printers/readme.md" >See More</a>|
 

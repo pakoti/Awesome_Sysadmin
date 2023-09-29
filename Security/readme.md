@@ -90,3 +90,62 @@ to check if you are local Administrator just run this script
 To grant access to your computer to users.if any users is present here without permissio then you should be serious ... .type this command in run:
 
     netplwiz
+
+# windows defender
+
+
+to check windows defender status by powershell:
+
+    Get-MpComputerStatus
+
+
+to stop windows defender in powershell :
+
+    Stop-Service -Name “WinDefend”
+
+Type the following command to temporarily disable Microsoft Defender Antivirus and press Enter(To disable Real-time Protection): 
+
+    Set-MpPreference -DisableRealtimeMonitoring $true
+
+To turn on again, the real time protection give the following command in Windows PowerShell (Admin) and then restart the server:
+
+    Set-MpPreference -DisableRealtimeMonitoring $false
+
+
+Disable Automatic Sample Submission:
+
+    Set-MpPreference -SubmitSamplesConsent NeverSend
+
+Disable Cloud-Based Protection:
+
+    Set-MpPreference -MAPSReporting Disable
+
+
+# installing and deleting windows defender by powershell
+
+to uninstall:
+
+    Uninstall-WindowsFeature -Name Windows-Defender
+
+then reboot and you have it uninstalled
+
+to install it just:
+
+    Install-WindowsFeature -Name Windows-Defender
+
+
+
+# Windows Firewall
+
+Open a command prompt in "Run as administrator" mode (or PowerShell) and enter: 
+
+    netsh advfirewall set allprofiles state off.
+
+To verify that Windows Firewall for all networks is off: 
+
+    netsh advfirewall show all.
+
+
+To get the current status of Windows Firewall using PowerShell:
+
+    Get-NetFirewallProfile

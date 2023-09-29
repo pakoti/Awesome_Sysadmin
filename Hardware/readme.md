@@ -16,3 +16,14 @@ if you want check,control your hardware in linux  with bash scripts.just check h
 <li>2. ...</li>
 
 </ul>
+
+# Bios
+
+to get information about bios just run this command in powershell:
+
+    Get-ItemProperty -Path HKLM:\HARDWARE\DESCRIPTION\System\BIOS
+
+
+To view the full list of BIOS parameters that are available in the Win32_BIOS WMI class, use the command:
+
+    Get-WmiObject -Class Win32_BIOS | Format-List *

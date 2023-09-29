@@ -67,7 +67,7 @@
 | netplwiz | To grant access to your computer to users|<a href="https://github.com/pakoti/Awesome_Sysadmin/blob/main/Security/readme.md" >See More</a> |
 |Windows Defender|how to control it by using powershell|<a href="https://github.com/pakoti/Awesome_Sysadmin/blob/main/Security/readme.md" >See More</a>|
 |Windwos Firewall|Configuring firewall settings|<a href="https://github.com/pakoti/Awesome_Sysadmin/blob/main/Security/readme.md" >See More</a>|
-|WinDefender|This script can enable disable and show windows defender real time monitoring!|<a href="https://github.com/pakoti/Awesome_Sysadmin/blob/main/Security/readme.md" >See More</a>|
+|WinDefender|This script can enable disable and show windows defender real time monitoring!|<a href="https://github.com/pakoti/Awesome_Sysadmin/blob/main/Security/WinDefender.ps1" >See More</a>|
 
 
 ## Hardware

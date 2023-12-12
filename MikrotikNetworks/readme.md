@@ -1,4 +1,22 @@
-# Mikrotik cheatsheets
+# Mikrotik 
+
+
+## How to Mikrotik Factory Reset Guide
+<ul>
+<li>Disconnect the power cord from the unit.</li> 
+<li>Hold the reset button and do not release.</li> 
+<li>Plug the power cord in and wait until the ACT light starts flashing.</li> 
+<li>Now release the button to clear configuration.</li> 
+<li>Wait for a few minutes for the router to clear and restore the factory settings</li> 
+</ul>
+
+
+
+
+
+
+
+## Mikrotik cheatsheets
 
 
 set router name to Router-1
@@ -75,3 +93,15 @@ export and import configuration files
 
     export file=config-11
     import file-name=config-11.rsc
+
+
+
+Default configuration
+
+    /system default-configuration print
+
+
+
+show system time
+
+    /system clock print

@@ -105,3 +105,22 @@ Default configuration
 show system time
 
     /system clock print
+
+
+
+
+print ip pool addresses
+
+    /ip pool print
+
+
+
+setup DHCP server in cli
+
+     /ip dhcp-server setup
+
+
+
+show dhcp servers Status
+
+     /ip dhcp-server> print

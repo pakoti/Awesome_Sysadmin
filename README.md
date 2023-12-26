@@ -163,16 +163,19 @@ I have found some links that i think they are usefull if you want to learn more:
 |powershell tools|a cool repository,contains awesome tools|<a href="https://github.com/zweilosec/PowerShell-Administration-Tools/tree/master" >See More</a>|
 
 
-
-
 ## Author
 [mohammad Ezzatzadeh](https://github.com/pakoti)
 
 ## License
+This project is licensed under the Creative Commons Zero v1.0 Universal license. See the LICENSE file for details
 
 Creative Commons Zero v1.0 Universal
 
 <img src=88x31.png>
+
+## Contributing
+
+Contributions are welcome! If you have a cool trick or command that you would like to share, feel free to open a pull request.
 
 
 ## Technologies Used

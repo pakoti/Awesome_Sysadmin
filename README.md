@@ -1,15 +1,13 @@
-# Awesome Sysadmin
-در این مخزن کد سعی کردم  تکنیک ها و روش ها و همچینین کدهایی که می شود با انها راحت می توانیم شبکه را مدیریت کنیم.
-
-
 
 # Awesome Sysadmin
  Mega Collection of Scripts,one-liners,Techniques to Troubleshoot,Solve problems for system administators.
 
 
+<p align="center">
+  <img src="https://github.com/pakoti/Awesome_Sysadmin/blob/main/Aewsomesysadmin.PNG">
+</p>
 
-
-# Lists of content
+## Lists of content
 
 <ul>
 <lNetworking</li>
@@ -29,7 +27,7 @@
 <p>If you are looking for Scripts to automate tasks or new solutions in windows or linux environments. System administrators and also help desk specialists can use this repository.by using powershell and also bash script we can easily do tasks that previsouly needed so much time.as system administrator i faced tasks which with scripting languages it is much more easier and safer to do it this way.</p>
 
 
-# Table of Contents
+## Table of Contents
 
 ## Mikrotik Networks
 | Title | Description | Link|

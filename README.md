@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/pakoti/Awesome_Sysadmin/blob/main/Aewsomesysadmin.PNG">
+  <img src="https://github.com/pakoti/Awesome_Sysadmin/blob/main/Aewsomesysadmin.PNG" alt="mikrotik hero logo created by microsoft ai DALL-E">
 </p>
 
 ## Lists of content

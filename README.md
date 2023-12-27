@@ -7,7 +7,7 @@
   <img src="https://github.com/pakoti/Awesome_Sysadmin/blob/main/Aewsomesysadmin.PNG" alt="mikrotik hero logo created by microsoft ai DALL-E">
 </p>
 
-## Lists of content
+# Lists of content
 
 <ul>
 <lNetworking</li>
@@ -27,7 +27,7 @@
 <p>If you are looking for Scripts to automate tasks or new solutions in windows or linux environments. System administrators and also help desk specialists can use this repository.by using powershell and also bash script we can easily do tasks that previsouly needed so much time.as system administrator i faced tasks which with scripting languages it is much more easier and safer to do it this way.</p>
 
 
-## Table of Contents
+# Table of Contents
 
 ## Mikrotik Networks
 | Title | Description | Link|

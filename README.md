@@ -133,6 +133,7 @@
 
 | Title | Description |Link|
 |--- | --- | --- |
+|All RUN Commands|complete list of all Run command all in one|<a href="https://github.com/pakoti/awesome_Sysadmin/tree/main/Powershell/run-commands.md"|
 | powershell commands  | list of important command  |<a href="https://github.com/pakoti/awesome_Sysadmin/tree/main/Powershell/readme.md" >See More</a> |
 | bin-lister.ps1| lists all content of recycle bin | <a href="https://github.com/pakoti/awesome_Sysadmin/tree/main/Powershell/readme.md" >See More</a> |
 | chrome-installer.ps1| install chrome with just a script | <a href="https://github.com/pakoti/awesome_Sysadmin/tree/main/Powershell/readme.md" >See More</a> |

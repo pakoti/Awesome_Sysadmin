@@ -11,5 +11,19 @@
 	Author: Dark Master | License: CC0-1,0
 #>
 
-Add-WindowsFeature DNS -IncludeManagementTools 
+Write-Host "Script just intialized" -ForegroundColor Green
+
+
+try {
+	Add-WindowsFeature DNS -IncludeManagementTools 
+	exit 0 # successfully done
+} catch {
+	"Error found in line $($_.InvocationInfo.ScriptLineNumber): $($Error[0])"
+	exit 1
+}
+
+
+Write-Host "finished successfully" -ForegroundColor Green
+
+
 

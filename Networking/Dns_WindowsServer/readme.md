@@ -43,3 +43,58 @@ Conditional forwarding is when a condition is applied to which DNS requests are 
 
 <a href="https://itfreetraining.com/lesson/forwarding_conditional/">Resource</a>
 
+
+## clear Dns cache in client and server
+
+clear Dns cache in client:
+
+    Clear-DnsServerCache
+
+clear Dns cache in server:
+
+
+    Clear-DnsServerForwarder 
+
+and a very simple command both in CMD and Powershell:
+
+    ipconfig /flushdns
+
+
+show cache
+
+    Show-DnsServerCache
+
+
+## Active Directory Role
+
+to rename computer name:
+
+    Rename-Computer
+
+
+
+## nslookup
+
+legacy commands in cmd
+
+    nslookup -type=A www.cisco.com
+    nslookup -type=AAAA www.cisco.com
+    nslookup -type=ns www.cisco.com
+    nslookup -type=TXT microsoft.com
+
+commnad in powershell
+
+    Resolve-DnsName cisco.com
+
+
+## SNMP
+
+install snmp 
+
+    Install-WindowsFeature SNMP-Service
+
+
+
+## What is a stub zone?
+
+A stub zone is a copy of a zone that contains only those resource records that are necessary to identify the authoritative Domain Name System (DNS) servers for that zone. Typically, you use a stub zone to resolve names between separate DNS namespaces.

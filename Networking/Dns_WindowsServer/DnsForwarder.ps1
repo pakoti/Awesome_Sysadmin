@@ -11,14 +11,22 @@
 	Author: Dark Master | License: CC0-1,0
 #>
 
-Add-DnsServerForwarder 8.8.8.8 
+#change ip address in here
+$IP = "8.8.4.4"
+
+Write-Host "Script just intialized" -ForegroundColor Green
 
 
+try {
+	Add-DnsServerForwarder $IP 
+	exit 0 # successfully done
+} catch {
+	"Error found in line $($_.InvocationInfo.ScriptLineNumber): $($Error[0])"
+	exit 1
+}
 
 
-
-
-
+Write-Host "Successfully set DNS Forwarder to 8.8.4.4" -ForegroundColor Green
 
 
 

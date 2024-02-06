@@ -184,3 +184,6 @@ Conditional forwarders are created to enable your DNS servers to forward request
 Conditional forwarding is when a condition is applied to which DNS requests are forwarding and which are not. DNS forwarding is the process of forwarding a DNS request from one DNS server to another. The most common example of this is when a company forwards its internal DNS server to its ISP's DNS server.
 
 <a href="https://itfreetraining.com/lesson/forwarding_conditional/">Resource</a>
+
+
+

@@ -41,3 +41,15 @@ ONE-LINERS in powershell.
 </ul>
 
 
+## why do we need active directory?
+AD serves as a centralized security management solution that houses all network resources. The purpose of Active Directory is to enable organizations to keep their network secure and organized without having to use up excessive IT resources
+
+
+
+
+## Resources
+
+<a href="https://blog.intermedia.com/what-is-active-directory-and-why-is-it-so-important/">link</a>
+
+
+

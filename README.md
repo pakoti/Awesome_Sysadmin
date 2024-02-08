@@ -41,6 +41,8 @@
 
 | Title | Description | Link|
 | --- | --- | --- |
+|DHCP|how to configure it in windows server| <a href="https://github.com/pakoti/Awesome_Sysadmin/blob/main/Networking/readme.md" >See More</a>|
+|DNS|how to configure it in windows server| <a href="https://github.com/pakoti/Awesome_Sysadmin/blob/main/Networking/readme.md" >See More</a>|
 | Port scanner | Python app that scan ports on localhost | <a href="https://github.com/pakoti/Awesome_Sysadmin/blob/main/Networking/readme.md" >See More</a> |
 | Active Directory one liners | one-liners to manage AD |<a href="https://github.com/pakoti/Awesome_Sysadmin/blob/main/Networking/readme.md" >See More</a> |
 | Forgotten Wifi Passwords | Show Forgotten Wifi Passwords IN CLEAR TEXT |<a href="https://github.com/pakoti/Awesome_Sysadmin/blob/main/Networking/readme.md" >See More</a> |

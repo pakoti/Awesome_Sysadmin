@@ -1,8 +1,8 @@
 <#
 .SYNOPSIS
-	remove dns forwarder
+	install dhcp role in windows server
 .DESCRIPTION
-    remove dns forwarder
+    install and  configure dhcp role and also managment tools in windows server
 	PS> ./Dns_role.ps1
 
 .LINK
@@ -13,12 +13,17 @@
 
 Write-Host "Script just intialized" -ForegroundColor Green
 
+
 try {
-	Remove-DnsServerForwarder 8.8.8.8
+	Add-WindowsFeature dhcp -IncludeManagementTools 
 	exit 0 # successfully done
 } catch {
 	"Error found in line $($_.InvocationInfo.ScriptLineNumber): $($Error[0])"
 	exit 1
 }
 
-Write-Host "Finished!" -ForegroundColor Green
+
+Write-Host "finished successfully" -ForegroundColor Green
+
+
+

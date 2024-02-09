@@ -99,7 +99,20 @@ id will be process id in list
 </ul>
 
 
+to get all command related to dns
+    
+    gcm *dns*
+
+
+to get all modules for dns
+
+    gcm -Module dnsserver
+
+
+
+
 ## Powershell scripts
+
 | Title | Description |
 |--- | --- |
 | bin-lister.ps1| lists all content of recycle bin | 

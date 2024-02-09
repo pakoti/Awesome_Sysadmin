@@ -102,6 +102,18 @@ install snmp
 
 
 
+
+## Round Robin
+
+Round-robin DNS is a load balancing technique where the balancing is done by a type of DNS server called an authoritative nameserver, rather than using a dedicated piece of load-balancing hardware.
+
+
 ## What is a stub zone?
 
 A stub zone is a copy of a zone that contains only those resource records that are necessary to identify the authoritative Domain Name System (DNS) servers for that zone. Typically, you use a stub zone to resolve names between separate DNS namespaces.
+
+
+
+# resources
+
+<a href="Cloudeflare.com">Cloudeflare</a>

@@ -35,15 +35,10 @@
 | --- | --- | --- |
 |DHCP|how to configure it in windows server| <a href="https://github.com/pakoti/Awesome_Sysadmin/blob/main/Networking/readme.md" >See More</a>|
 |DNS|how to configure it in windows server| <a href="https://github.com/pakoti/Awesome_Sysadmin/blob/main/Networking/readme.md" >See More</a>|
-| Port scanner | Python app that scan ports on localhost | <a href="https://github.com/pakoti/Awesome_Sysadmin/blob/main/Networking/readme.md" >See More</a> |
+|Scripts|Usefull scripts for automation and ease of use|<a href="https://github.com/pakoti/Awesome_Sysadmin/blob/main/Networking/readme.md" >See More</a>|
 
-| Forgotten Wifi Passwords | Show Forgotten Wifi Passwords IN CLEAR TEXT |<a href="https://github.com/pakoti/Awesome_Sysadmin/blob/main/Networking/readme.md" >See More</a> |
-| Network Interfaces | Show Network Interfaces in detail in CMD |<a href="https://github.com/pakoti/Awesome_Sysadmin/blob/main/Networking/readme.md" >See More</a> |
-| Managing users | add or delete users |<a href="https://github.com/pakoti/Awesome_Sysadmin/blob/main/Networking/readme.md" >See More</a> |
-| Managing network connection | Show interfaces much more easier way |<a href="https://github.com/pakoti/Awesome_Sysadmin/blob/main/Networking/readme.md" >See More</a> |
-| Hosts in Windows | Show localhosts and thier ips |<a href="https://github.com/pakoti/Awesome_Sysadmin/blob/main/Networking/readme.md" >See More</a> |
-|SSH Reverse Proxy|Ready to use scripts for reverse tunneling|<a href="https://github.com/pakoti/Awesome_Sysadmin/blob/main/Networking/readme.md" >See More</a>|
-|Basic Download Manager|cli app to manage downloads|<a href="https://github.com/pakoti/Awesome_Sysadmin/blob/main/Networking/readme.md" >See More</a>|
+
+
 
 ## Monitoring
 

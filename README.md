@@ -2,15 +2,19 @@
 # Awesome Sysadmin
  Mega Collection of Scripts,one-liners,Techniques to Troubleshoot,Solve problems for system administators.
 
+<p>Managing Windows Servers with repository is very easy and also cool.save a lot of time and have fun working with windows environments.</p>
 
 <p align="center">
   <img src="https://github.com/pakoti/Awesome_Sysadmin/blob/main/Aewsomesysadmin.PNG" alt="mikrotik hero logo created by microsoft ai DALL-E">
 </p>
 
-# Lists of content
+
+
+
+# Table of Contents
 
 <ul>
-<lNetworking</li>
+<li>Networking</li>
 <li>Monitoring</li>
 <li>Security</li>
 <li>Hardware</li>
@@ -24,18 +28,6 @@
 <li>Mikrotik Networks</li>
 </ul>
 
-<p>If you are looking for Scripts to automate tasks or new solutions in windows or linux environments. System administrators and also help desk specialists can use this repository.by using powershell and also bash script we can easily do tasks that previsouly needed so much time.as system administrator i faced tasks which with scripting languages it is much more easier and safer to do it this way.</p>
-
-
-# Table of Contents
-
-## Mikrotik Networks
-| Title | Description | Link|
-| --- | --- | --- |
-| Mikrotik cheatsheets | a collection of Terminal,Hacks,Tricks and other cool stuff  | <a href="https://github.com/pakoti/Awesome_Sysadmin/blob/main/MikrotikNetworks/readme.md" >See More</a> |
-
-
-
 
 ## Networking
 
@@ -44,7 +36,7 @@
 |DHCP|how to configure it in windows server| <a href="https://github.com/pakoti/Awesome_Sysadmin/blob/main/Networking/readme.md" >See More</a>|
 |DNS|how to configure it in windows server| <a href="https://github.com/pakoti/Awesome_Sysadmin/blob/main/Networking/readme.md" >See More</a>|
 | Port scanner | Python app that scan ports on localhost | <a href="https://github.com/pakoti/Awesome_Sysadmin/blob/main/Networking/readme.md" >See More</a> |
-| Active Directory one liners | one-liners to manage AD |<a href="https://github.com/pakoti/Awesome_Sysadmin/blob/main/Networking/readme.md" >See More</a> |
+
 | Forgotten Wifi Passwords | Show Forgotten Wifi Passwords IN CLEAR TEXT |<a href="https://github.com/pakoti/Awesome_Sysadmin/blob/main/Networking/readme.md" >See More</a> |
 | Network Interfaces | Show Network Interfaces in detail in CMD |<a href="https://github.com/pakoti/Awesome_Sysadmin/blob/main/Networking/readme.md" >See More</a> |
 | Managing users | add or delete users |<a href="https://github.com/pakoti/Awesome_Sysadmin/blob/main/Networking/readme.md" >See More</a> |
@@ -115,6 +107,7 @@
 
 | Title | Description | Link|
 | --- | --- | --- |
+| Active Directory one liners | one-liners to manage AD |<a href="https://github.com/pakoti/Awesome_Sysadmin/blob/main/Networking/readme.md" >See More</a> |
 | Password policy     | restart password    |<a href="https://github.com/pakoti/Awesome_Sysadmin/blob/main/Active_Directory/readme.md" >See More</a>|  
 | Password policy     | force to restart password at first login   |<a href="https://github.com/pakoti/Awesome_Sysadmin/blob/main/Active_Directory/readme.md" >See More</a>|  
 |Unlock User account|**|<a href="https://github.com/pakoti/Awesome_Sysadmin/blob/main/Active_Directory/readme.md" >See More</a>|

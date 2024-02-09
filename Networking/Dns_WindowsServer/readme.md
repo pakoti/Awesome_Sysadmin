@@ -117,3 +117,7 @@ A stub zone is a copy of a zone that contains only those resource records that a
 # resources
 
 <a href="Cloudeflare.com">Cloudeflare</a>
+
+<a href="https://khoshamoz.ir/index.php/post10951">khoshamoz</a>
+
+https://khoshamoz.ir/index.php/post10951

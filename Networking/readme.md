@@ -14,6 +14,37 @@ in this section some tools and techniques that are used widely,are described .ke
 </ul>
 
 
+
+## powershell commands for network troubleshooting
+
+Restart-NetAdapter
+
+    Restart-NetAdapter -Name "Ethernet"
+
+Get-NetFirewallProfile:check for firewall rules and status
+
+    Get-NetFirewallProfile
+
+Get-NetNeighbor
+
+    Get-NetNeighbor
+
+Test-Connection google.com
+
+    Test-Connection google.com
+
+Set-DnsClientServerAddress
+
+    Set-DnsClientServerAddress -InterfaceAlias "Ethernet" -ServerAddresses "8.8.8.8"
+
+Get-NetAdapter:basic information about network interfaces
+
+    Get-NetAdapter
+
+    Get-NetIPAddress
+
+    Test-NetConnection google.com
+
 ## Scripts
 
 

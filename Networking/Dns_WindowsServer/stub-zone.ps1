@@ -1,9 +1,8 @@
 <#
 .SYNOPSIS
-	add DNS record in windows server
+	add DNS stub zone in windows server
 .DESCRIPTION
-    add DNS A record in windows server
-	PS> ./Add-DnsRecord.ps1
+add DNS stub zone in windows server	PS> ./Add-DnsRecord.ps1
 
 .LINK
 	https://github.com/pakoti/Awesome_Sysadmin
@@ -17,7 +16,7 @@ Write-Host "Script just intialized" -ForegroundColor Green
 
 
 try {
-	Add-DnsServerResourceRecordA -IPv4Address 192.168.1.254 -Name last-host -ZoneName example.com ComputerName dc-example
+	Add-DnsServerStubZone -Name <ZONE_NAME> -MasterServers <MASTER_IP> -ReplicationScope <SCOPE>
 	exit 0 # successfully done
 } catch {
 	"Error found in line $($_.InvocationInfo.ScriptLineNumber): $($Error[0])"
@@ -26,14 +25,3 @@ try {
 
 
 Write-Host "finished successfully" -ForegroundColor Green
-
-
-
-
-
-
-
-
-
-
-

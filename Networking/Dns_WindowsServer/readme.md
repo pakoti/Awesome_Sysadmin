@@ -95,6 +95,13 @@ install snmp
 
 
 
+## adding a dns record
+
+
+    Add-DnsServerResourceRecordA -IPv4Address 192.168.1.254 -Name last-host -ZoneName example.com ComputerName dc-example
+
+
+
 ## What is a stub zone?
 
 A stub zone is a copy of a zone that contains only those resource records that are necessary to identify the authoritative Domain Name System (DNS) servers for that zone. Typically, you use a stub zone to resolve names between separate DNS namespaces.

@@ -114,6 +114,34 @@ A stub zone is a copy of a zone that contains only those resource records that a
 
 
 
+## DNS Recursion
+to increase security we can turn off recursion in dns queries:
+
+``` powershell
+
+    Set-DnsServerRecursionScope -Name . EnableRecursion $flase
+
+```
+
+if the scope of the request is from "Trusted" enbale it.
+
+``` powershell
+
+    Add-DnsServerRecursionScope -Name "Trusted" -EnableRecursion $true
+
+```
+
+this recursion policy allows from one of the interfaces and allow recursion for the "Trusted"
+
+``` powershell
+
+    Add-DnsServerQueryResolutionPolicy -Name "Recursion policy" -Action ALLOW -ApplyOnRecursion -RecursionScope "Trusted" -ServerInterfaceIP "EQ,192.168.1.100"
+
+```
+
+## DNS SEC (security)
+
+
 # resources
 
 <a href="Cloudeflare.com">Cloudeflare</a>

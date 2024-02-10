@@ -96,19 +96,32 @@ id will be process id in list
 
 </li>
 
-</ul>
 
 
-to get all command related to dns
+
+<li>to get all command related to dns
     
     gcm *dns*
+</li>
 
-
-to get all modules for dns
+<li>to get all modules for dns
 
     gcm -Module dnsserver
 
+</li>
 
+
+<li>view installed features
+
+    Get-WindowsFeature | Where-Object Installed -eq True
+
+</li>
+
+
+
+
+
+</ul>
 
 
 ## Powershell scripts

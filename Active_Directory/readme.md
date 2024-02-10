@@ -47,6 +47,15 @@ AD serves as a centralized security management solution that houses all network 
     Unlock-ADaccount -identity "User"
 
 </li>
+
+<li>Join Active directory:
+
+    Add-Computer -DomainName example.com -DomainCredential 123456789
+
+
+</li>
+
+
 </ul>
 
 

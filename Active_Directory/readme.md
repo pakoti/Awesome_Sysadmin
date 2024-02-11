@@ -59,11 +59,6 @@ AD serves as a centralized security management solution that houses all network 
 </ul>
 
 
-
-
-
-
-
 ## Active Directory one liners
 by using CMD you can be fast and dangerous in windows domains!
 <ul>
@@ -94,6 +89,3 @@ by using CMD you can be fast and dangerous in windows domains!
 ## Resources
 
 <a href="https://blog.intermedia.com/what-is-active-directory-and-why-is-it-so-important/">link</a>
-
-
-

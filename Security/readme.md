@@ -8,6 +8,7 @@ cool tricks to securing and some how a little forensics.keep in mind that win+x 
 <li>Calculate hash of a File</li>
 <li>Check if you are local Administrator</li>
 <li>netplwiz</li>
+<li>Powershell DFIR commands</li>
 </ul>
 
 # Wevtutil
@@ -149,3 +150,18 @@ To verify that Windows Firewall for all networks is off:
 To get the current status of Windows Firewall using PowerShell:
 
     Get-NetFirewallProfile
+
+
+# Powershell DFIR commands
+
+i have collected usefull scripts for DFIR with powershell tools.for more take a look at [Here](Powershell-dfir-commands.md)
+
+
+
+
+
+
+
+# resources
+for more information you can see this links.
+<a href="https://github.com/Bert-JanP/Incident-Response-Powershell">Incident Response Powershell</a>

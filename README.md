@@ -5,7 +5,7 @@
 <p>Managing Windows Servers with repository is very easy and also cool.save a lot of time and have fun working with windows environments.</p>
 
 <p align="center">
-  <img src="https://github.com/pakoti/Awesome_Sysadmin/blob/main/Aewsomesysadmin.PNG" alt="mikrotik hero logo created by microsoft ai DALL-E">
+  <img src="https://github.com/pakoti/Awesome_Sysadmin/blob/main/Aewsomesysadmin.PNG" alt="awesome sysadmin logo created by microsoft ai">
 </p>
 
 

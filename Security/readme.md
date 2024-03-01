@@ -1,6 +1,14 @@
 # security
 cool tricks to securing and some how a little forensics.keep in mind that win+x in windows os opens a menu bar that you can control so many other options too.
 
+
+<p align="center">
+  <img src="./defending-windows.jpg" alt="windows logo created by microsoft ai ">
+</p>
+
+
+
+
 <ul>
 <li>Wevtutil</li>
 <li>Event Viewer</li>

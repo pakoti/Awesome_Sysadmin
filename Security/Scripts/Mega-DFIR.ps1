@@ -11,19 +11,19 @@
     Run Script without any parameters
     .\DFIR-Script.ps1
 .EXAMPLE
-    Define custom search window, this is done in days. Example below collects the Security Events from the last 10 days.
-    .\DFIR-Script.ps1 -sw 10
+    Define custom search window, this is done in days.
+    Example below collects the Security Events from the last 20 days.
+    .\DFIR-Script.ps1 $SearchDays 20
 
 .LINK
 
 .NOTES
     Any additional notes or information about the script or function.
-
-
 #>
 
+# this param is responsible for days that this script will collect is windows event
 param(
-        [Parameter(Mandatory=$false)][int]$sw = 2 # Defines the custom search window, this is done in days.
+        [Parameter(Mandatory=$false)][int]$SearchDays = 2 # Defines the custom search window, this is done in days.
     )
 
 
@@ -45,6 +45,7 @@ else {
     Write-Host "DFIR Session starting..."
 }
 
+#output directory
 Write-Host "Creating output directory..."
 $CurrentPath = $pwd
 $ExecutionTime = $(get-date -f yyyy-MM-dd)
@@ -52,6 +53,9 @@ $FolderCreation = "$CurrentPath\DFIR-$env:computername-$ExecutionTime"
 mkdir -Force $FolderCreation | Out-Null
 Write-Host "Output directory created: $FolderCreation..."
 
+
+
+#user and userid
 $currentUsername = (Get-WmiObject Win32_Process -f 'Name="explorer.exe"').GetOwner().User
 $currentUserSid = Get-ItemProperty 'HKLM:\SOFTWARE\Microsoft\Windows NT\CurrentVersion\ProfileList\*' | Where-Object {$_.PSChildName -match 'S-1-5-21-\d+-\d+\-\d+\-\d+$' -and $_.ProfileImagePath -match "\\$currentUsername$"} | ForEach-Object{$_.PSChildName}
 Write-Host "Current user: $currentUsername $currentUserSid"
@@ -168,27 +172,27 @@ function Get-ActiveProcesses {
 
 function Get-SecurityEventCount {
     param(
-        [Parameter(Mandatory=$true)][String]$sw
+        [Parameter(Mandatory=$true)][String]$SearchDays
     )
-    Write-Host "Collecting stats Security Events last $sw days..."
+    Write-Host "Collecting stats Security Events last $SearchDays days..."
     $SecurityEvents = "$FolderCreation\SecurityEvents"
     mkdir -Force $SecurityEvents | Out-Null
     $ProcessOutput = "$SecurityEvents\EventCount.txt"
-    $SecurityEvents = Get-EventLog -LogName security -After (Get-Date).AddDays(-$sw)
+    $SecurityEvents = Get-EventLog -LogName security -After (Get-Date).AddDays(-$SearchDays)
     $SecurityEvents | Group-Object -Property EventID -NoElement | Sort-Object -Property Count -Descending | Out-File -Force -FilePath $ProcessOutput
 }
 
 function Get-SecurityEvents {
     param(
-        [Parameter(Mandatory=$true)][String]$sw
+        [Parameter(Mandatory=$true)][String]$SearchDays
     )
-    Write-Host "Collecting Security Events last $sw days..."
+    Write-Host "Collecting Security Events last $SearchDays days..."
     $SecurityEvents = "$FolderCreation\SecurityEvents"
     mkdir -Force $SecurityEvents | Out-Null
     $ProcessOutput = "$SecurityEvents\SecurityEvents.txt"
-    get-eventlog security -After (Get-Date).AddDays(-$sw) | Format-List * | Out-File -Force -FilePath $ProcessOutput
+    get-eventlog security -After (Get-Date).AddDays(-$SearchDays) | Format-List * | Out-File -Force -FilePath $ProcessOutput
 	$CSVExportLocation = "$CSVOutputFolder\SecurityEvents.csv"
-	get-eventlog security -After (Get-Date).AddDays(-$sw) | ConvertTo-Csv -NoTypeInformation | Out-File -FilePath $CSVExportLocation -Encoding UTF8
+	get-eventlog security -After (Get-Date).AddDays(-$SearchDays) | ConvertTo-Csv -NoTypeInformation | Out-File -FilePath $CSVExportLocation -Encoding UTF8
 }
 
 function Get-EventViewerFiles {
@@ -349,6 +353,8 @@ function Get-ConnectedDevices {
 
 
 # collecting evidences in browsers
+#chrome and firefox and chromium included
+
 
 #ChromeFiles
 function Get-ChromeFiles {
@@ -392,8 +398,10 @@ function Get-ChromiumFiles {
     New-Item -Path $HistoryFolder -ItemType Directory -Force | Out-Null
 
     $filesToCopy = @(
-        'Preferences',
-        'History'
+            'History',
+            'Login Data',
+            'Bookmarks',
+            'Extensions'
     )
 
     Get-ChildItem "C:\Users\$Username\AppData\Local\*\*\User Data\*\" | Where-Object { `
@@ -511,8 +519,8 @@ function Run-WithoutAdminPrivilege {
 
 #Run all functions that do require admin priviliges
 function Run-WithAdminPrivilges {
-    Get-SecurityEventCount $sw
-    Get-SecurityEvents $sw
+    Get-SecurityEventCount $SearchDays
+    Get-SecurityEvents $SearchDays
     Get-RemotelyOpenedFiles
     Get-ShadowCopies
     Get-EventViewerFiles

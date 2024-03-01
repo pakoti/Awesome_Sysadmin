@@ -1,11 +1,11 @@
+# before using this script:
+#1. i have test chrome in browsers
+#2.it has some errors in running which i havent looked at them
+#3.enjoy use this
+
 <#
 .DESCRIPTION
-    The DFIR Script is a tool to perform incident response via PowerShell on compromised devices with an Windows Operating System (Workstation & Server). 
-    The content that the script can collect depends on the permissions of the user that executes the script, if executed with admin privileges more forensic artifacts can be collected.
-    The collected information is saved in an output directory in the current folder, this is by creating a folder named 'DFIR-_hostname_-_year_-_month_-_date_'.
-    This folder is zipped at the end to enable easy collection.
-    This script can be integrated with Defender For Endpoint via Live Response sessions
-	The script outputs the results as CSV to be imported in SIEM or data analysis tooling, the folder in which those files are located is named 'CSV Results (SIEM Import Data)'.
+    yet tobe written
 
 .EXAMPLE
     Run Script without any parameters

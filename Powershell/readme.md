@@ -1,5 +1,18 @@
 # Powershell
 
+
+
+
+<p align="center">
+  <img src="./powershell-shield.jpg" alt="powershell logo created by microsoft ai ">
+</p>
+
+
+
+
+
+## list of contents
+
 <ul>
 <li>powershell commands</li>
 <li>powershell scripts</li>

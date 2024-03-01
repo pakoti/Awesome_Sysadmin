@@ -157,11 +157,6 @@ To get the current status of Windows Firewall using PowerShell:
 i have collected usefull scripts for DFIR with powershell tools.for more take a look at [Here](Powershell-dfir-commands.md)
 
 
-
-
-
-
-
 # resources
 for more information you can see this links.
 <a href="https://github.com/Bert-JanP/Incident-Response-Powershell">Incident Response Powershell</a>

@@ -160,6 +160,30 @@ To get the current status of Windows Firewall using PowerShell:
     Get-NetFirewallProfile
 
 
+
+## Securing SMB 
+
+To see if weather Audit is enabled
+```powershell 
+    Get-SmbServerConfiguration | Select AuditSmb1Access
+```
+
+
+To see if weather smb v1 is enabled
+```powershell
+    Get-SmbServerConfiguration | Select EnableSMB1Protocol
+```
+
+
+To enable smb v1 in our server
+```powershell
+
+    Set-SmbServerConfiguration -EnableSMB1Protocol $true
+
+```
+
+
+
 # Powershell DFIR commands
 
 i have collected usefull scripts for DFIR with powershell tools.for more take a look at [Here](Powershell-dfir-commands.md)

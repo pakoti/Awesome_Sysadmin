@@ -182,7 +182,15 @@ To enable smb v1 in our server
 
 ```
 
+to enable signing in smb v1 just go to group policy and security options and enable <code>Microsoft network server Digitally signed</code> this is usefull for prevention of man in the middle attacks.
 
+to enable encryption in smb v1 just execute this powershell command:
+```powershell
+
+    Set-SmbServerConfiguration -RejectUnencryptedAccess $true
+
+```
+if you had to refrence a server y ip instead of DNS kerberos fails and NTLM V2 will work 
 
 # Powershell DFIR commands
 

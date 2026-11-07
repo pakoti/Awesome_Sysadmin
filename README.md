@@ -152,6 +152,7 @@ I have found some links that i think they are usefull if you want to learn more:
 |fleschutz| a github repo full of cool powershell scripts|<a href="https://github.com/fleschutz/PowerShell" >See More</a>|
 |CMD cheatsheet |a cool repository contains cmd command|<a href="https://github.com/security-cheatsheet/cmd-command-cheat-sheet" >See More</a>|
 |powershell tools|a cool repository,contains awesome tools|<a href="https://github.com/zweilosec/PowerShell-Administration-Tools/tree/master" >See More</a>|
+|Windows patch failure triage checklist|24 vendor-neutral checks for preserving update errors, scoping affected endpoints, validating remediation, and owning unresolved exceptions|<a href="https://izikipizi.github.io/nizlo-msp-operations-resources/windows-patch-failure-triage-checklist.html" >See More</a>|
 |Mikrotik Hero|Mikrotik Cheatsheets and checklist,CLI Commands ...|<a href="https://github.com/pakoti/Mikrotik_Hero" >See More</a>|
 
 
